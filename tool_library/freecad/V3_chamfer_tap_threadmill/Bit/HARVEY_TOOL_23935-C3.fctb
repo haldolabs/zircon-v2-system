@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 23935-C3",
+ "shape": "dovetail.fcstd",
+ "parameter": {
+  "Diameter": "5.8674 mm",
+  "Length": "50.8000 mm",
+  "CuttingEdgeAngle": "48.0000 \u00b0",
+  "CuttingEdgeHeight": "6.0452 mm",
+  "ShankDiameter": "6.3500 mm",
+  "NeckDiameter": "2.1848 mm",
+  "NeckHeight": "43.7548 mm",
+  "TipDiameter": "0.4844 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "dovetail mill",
+  "iso13399": {
+   "DC": 0.231,
+   "DMM": 0.25,
+   "APMX": 0.238,
+   "OAL": 2,
+   "NOF": 2,
+   "RE": 0.062,
+   "ND": 0.238,
+   "TA": 24,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-23935-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

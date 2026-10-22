@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-0618",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "38.1000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "1.6002 mm",
+  "ShankDiameter": "3.1750 mm",
+  "TipDiameter": "0.2032 mm"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "HSS",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 0.063,
+   "OAL": 1.5,
+   "NOF": 4,
+   "RE": null,
+   "ND": 1.2,
+   "TA": 45,
+   "unit": "in"
+  },
+  "vendor": "Haas Automation",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-0618.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json"
+ }
+}

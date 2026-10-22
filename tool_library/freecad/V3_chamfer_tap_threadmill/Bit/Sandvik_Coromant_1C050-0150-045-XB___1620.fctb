@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant 1C050-0150-045-XB   1620",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "10.0000 mm",
+  "Length": "100.0000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "4.2500 mm",
+  "ShankDiameter": "10.0000 mm",
+  "TipDiameter": "1.5000 mm"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 10,
+   "DMM": 10,
+   "APMX": 4.25,
+   "OAL": 100,
+   "NOF": 4,
+   "RE": null,
+   "ND": 59.2,
+   "TA": 45,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_End_Mills",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=1C050-0150-045-XB%20%20%201620&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_End_Mills.json"
+ }
+}

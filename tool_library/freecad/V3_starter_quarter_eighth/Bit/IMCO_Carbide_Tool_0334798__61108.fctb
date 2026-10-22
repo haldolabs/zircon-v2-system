@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "IMCO Carbide Tool 0334798; 61108",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "2.7940 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "HSS",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "NOF": 3,
+   "RE": 0.015,
+   "ND": 0.75,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "IMCO Carbide Tool",
+  "library": "autodesk/IMCO_Solid_End_Mills_Imperial",
+  "product_link": "https://www.imcousa.com/parts/0334798",
+  "source_file": "autodesk/fusion/IMCO_Solid_End_Mills_Imperial.json"
+ }
+}

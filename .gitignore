@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+tool_library/raw/**/*.json
+!tool_library/raw/autodesk/tools_index.json
+tool_library/raw/**/*.csv
+tool_library/collection.csv
+tool_library/collection.json
+tool_library/holders.json
+tool_library/freecad/holders/
+tool_library/freecad/full/
+tool_library/freecad/*/Shape/

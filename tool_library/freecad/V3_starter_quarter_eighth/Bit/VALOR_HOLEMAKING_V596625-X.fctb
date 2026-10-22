@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V596625-X",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "100.0000 mm",
+  "TipAngle": "140.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 8,
+   "APMX": 32.91,
+   "OAL": 100,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 40.934,
+   "TA": 140,
+   "unit": "mm"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V596625-X",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

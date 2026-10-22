@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 943470",
+ "shape": "dovetail.fcstd",
+ "parameter": {
+  "Diameter": "9.5250 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "1.6764 mm",
+  "ShankDiameter": "9.5250 mm",
+  "NeckDiameter": "6.1722 mm",
+  "NeckHeight": "60.8236 mm",
+  "TipDiameter": "6.1722 mm"
+ },
+ "attribute": {
+  "Flutes": 6,
+  "Material": "Carbide",
+  "fusion_type": "dovetail mill",
+  "iso13399": {
+   "DC": 0.375,
+   "DMM": 0.375,
+   "APMX": 0.066,
+   "OAL": 2.5,
+   "NOF": 6,
+   "RE": 0,
+   "ND": 0.066,
+   "TA": 45,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-943470",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

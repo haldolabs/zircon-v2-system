@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools A209.320.12D",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "32.0000 mm",
+  "Length": "64.5000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "25.0000 mm",
+  "ShankDiameter": "12.0000 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 32,
+   "DMM": 12,
+   "APMX": 25,
+   "OAL": 64.5,
+   "NOF": 2,
+   "RE": null,
+   "ND": 25,
+   "TA": 45,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Carbider_Poly",
+  "product_link": "https://www.fraisertools.com/it/fresa-per-intagli-a-v-per-plastica-alluminio.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Carbider_Poly.json"
+ }
+}

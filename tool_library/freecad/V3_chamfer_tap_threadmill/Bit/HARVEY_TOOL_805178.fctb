@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 805178",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "1.9812 mm",
+  "Length": "38.1000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "5.9436 mm",
+  "ShankDiameter": "3.1750 mm",
+  "TipDiameter": "1.8542 mm"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.078,
+   "DMM": 0.125,
+   "APMX": 0.234,
+   "OAL": 1.5,
+   "NOF": 4,
+   "RE": 0,
+   "ND": 0.234,
+   "TA": 45,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-805178",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json"
+ }
+}

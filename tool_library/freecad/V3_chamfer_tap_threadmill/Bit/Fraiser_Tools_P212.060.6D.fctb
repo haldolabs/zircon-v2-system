@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools P212.060.6D",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "50.0000 mm",
+  "CuttingEdgeAngle": "70.0000 \u00b0",
+  "CuttingEdgeHeight": "9.0000 mm",
+  "ShankDiameter": "6.0000 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 1,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 6,
+   "DMM": 6,
+   "APMX": 9,
+   "OAL": 50,
+   "NOF": 1,
+   "RE": null,
+   "ND": 30,
+   "TA": 35,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Boss_Beaver",
+  "product_link": "https://www.fraisertools.com/it/beta-b-bulini-per-incisione-rivestiti.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Boss_Beaver.json"
+ }
+}

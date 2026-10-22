@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "IMCO Carbide Tool 0332446; 31291",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "3.1750 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 1.0,
+   "OAL": 3.0,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 1.3,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "IMCO Carbide Tool",
+  "library": "autodesk/IMCO_Solid_End_Mills_Imperial",
+  "product_link": "https://www.imcousa.com/parts/0332446",
+  "source_file": "autodesk/fusion/IMCO_Solid_End_Mills_Imperial.json"
+ }
+}

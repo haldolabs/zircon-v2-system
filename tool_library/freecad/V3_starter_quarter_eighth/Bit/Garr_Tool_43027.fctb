@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "Garr Tool 43027",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "3.1750 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 3.175,
+   "DMM": 3.175,
+   "APMX": 19.05,
+   "OAL": 76.2,
+   "NOF": 2,
+   "RE": null,
+   "ND": 19.05,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=43027",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json"
+ }
+}

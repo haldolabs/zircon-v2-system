@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Garr Tool 21311",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "50.8000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 3.175,
+   "DMM": 3.175,
+   "APMX": 19.05,
+   "OAL": 50.8,
+   "NOF": 2,
+   "RE": null,
+   "ND": 19.05,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=21311",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json"
+ }
+}

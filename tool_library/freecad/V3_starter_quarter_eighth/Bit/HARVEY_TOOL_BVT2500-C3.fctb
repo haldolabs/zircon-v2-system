@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL BVT2500-C3",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "100.0000 mm",
+  "TipAngle": "140.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 8,
+   "APMX": 43.1556054938,
+   "OAL": 100,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 46.1556054938,
+   "TA": 140,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-BVT2500-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json"
+ }
+}

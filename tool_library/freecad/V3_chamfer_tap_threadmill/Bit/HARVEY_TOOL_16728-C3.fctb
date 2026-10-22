@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 16728-C3",
+ "shape": "dovetail.fcstd",
+ "parameter": {
+  "Diameter": "11.1125 mm",
+  "Length": "69.8500 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "5.5372 mm",
+  "ShankDiameter": "11.1125 mm",
+  "NeckDiameter": "5.0906 mm",
+  "NeckHeight": "63.3128 mm",
+  "TipDiameter": "4.7187 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "dovetail mill",
+  "iso13399": {
+   "DC": 0.4375,
+   "DMM": 0.4375,
+   "APMX": 0.218,
+   "OAL": 2.75,
+   "NOF": 3,
+   "RE": 0.01,
+   "ND": 0.218,
+   "TA": 30,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-16728-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

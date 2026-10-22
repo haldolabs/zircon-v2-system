@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-2069",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "77.8002 mm",
+  "CuttingEdgeHeight": "31.7500 mm",
+  "ShankDiameter": "9.5250 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.375,
+   "APMX": 1.25,
+   "OAL": 3.063,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 1.28937,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Haas Automation",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-2069.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 949420-C3",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "7.9375 mm",
+  "Length": "63.5000 mm",
+  "TipAngle": "82.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 0.3125,
+   "DMM": 0.3125,
+   "APMX": 0.812,
+   "OAL": 2.5,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.812,
+   "TA": 82,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-949420-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

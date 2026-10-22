@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 17950-C3",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "50.8000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "center drill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.21217,
+   "OAL": 2,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.21217,
+   "TA": 118,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-17950-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Mitsubishi Materials 22911285",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "2.0000 mm",
+  "Length": "50.0000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "0.8500 mm",
+  "ShankDiameter": "6.0000 mm",
+  "TipDiameter": "0.3000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 2,
+   "DMM": 6,
+   "APMX": 0.85,
+   "OAL": 50,
+   "NOF": 3,
+   "RE": null,
+   "ND": 6,
+   "TA": 45,
+   "unit": "mm"
+  },
+  "vendor": "Mitsubishi Materials",
+  "library": "autodesk/Mitsubishi_Materials_Solid_End_Mills",
+  "product_link": "https://www.mmc-carbide.com/webcatalog/product/22911285",
+  "source_file": "autodesk/fusion/Mitsubishi_Materials_Solid_End_Mills.json"
+ }
+}

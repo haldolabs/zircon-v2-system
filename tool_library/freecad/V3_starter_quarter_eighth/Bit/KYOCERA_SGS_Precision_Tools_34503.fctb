@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "KYOCERA SGS Precision Tools 34503",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "77.7748 mm",
+  "CuttingEdgeHeight": "31.7500 mm",
+  "ShankDiameter": "9.5250 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.375,
+   "APMX": 1.25,
+   "OAL": 3.062,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 1.25,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "KYOCERA SGS Precision Tools",
+  "library": "autodesk/SGS_Kyocera_SGS_Carbide_Tools_Imperial",
+  "product_link": "https://kyocera-sgstool.co.uk/",
+  "source_file": "autodesk/fusion/SGS_Kyocera_SGS_Carbide_Tools_Imperial.json"
+ }
+}

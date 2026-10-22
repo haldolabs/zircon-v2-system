@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 900230-C3",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "3.0000 mm",
+  "Length": "38.0000 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "2.6000 mm",
+  "ShankDiameter": "3.0000 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 3,
+   "DMM": 3,
+   "APMX": 2.6,
+   "OAL": 38,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 2.6,
+   "TA": 30,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-900230-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

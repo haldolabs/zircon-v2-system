@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant T300-XM100DB-M6X075 C110",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "80.0000 mm",
+  "ShankDiameter": "4.5000 mm",
+  "NeckDiameter": "4.5000 mm",
+  "NeckLength": "41.0000 mm",
+  "Crest": "0.2250 mm",
+  "cuttingAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "HSS",
+  "tap_pitch_mm": 0.75,
+  "note": "TAP represented with FreeCAD's thread-mill shape (cylindrical envelope with thread crest); FreeCAD 1.0 has no tap shape. Pitch kept in attribute.tap_pitch_mm",
+  "fusion_type": "tap right hand",
+  "iso13399": {
+   "DC": 6,
+   "DMM": 4.5,
+   "APMX": 38,
+   "OAL": 80,
+   "NOF": 3,
+   "RE": null,
+   "ND": 59,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_Hole_Making",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=T300-XM100DB-M6X075%20C110&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_Hole_Making.json"
+ }
+}

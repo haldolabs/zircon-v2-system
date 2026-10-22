@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools 244.180.8D",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "18.0000 mm",
+  "Length": "60.0000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "10.0000 mm",
+  "ShankDiameter": "8.0000 mm",
+  "TipDiameter": "3.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 18,
+   "DMM": 8,
+   "APMX": 10,
+   "OAL": 60,
+   "NOF": 2,
+   "RE": null,
+   "ND": 15,
+   "TA": 45,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Carbider_Poly",
+  "product_link": "https://www.fraisertools.com/it/fresa-per-lavorazione-alucobondr.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Carbider_Poly.json"
+ }
+}

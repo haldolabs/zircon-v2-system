@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "ISCAR 3405910",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "100.0760 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.236,
+   "APMX": 2.1654,
+   "OAL": 3.94,
+   "NOF": 2,
+   "RE": null,
+   "ND": 2.426871180179927,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "ISCAR",
+  "library": "autodesk/Iscar_Iscar_Hole_Making_Imperial",
+  "product_link": "https://www.Iscar.com/ecat/e.asp?cat=3405910",
+  "source_file": "autodesk/fusion/Iscar_Iscar_Hole_Making_Imperial.json"
+ }
+}

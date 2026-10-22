@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "DATRON 0068783",
+ "shape": "dovetail.fcstd",
+ "parameter": {
+  "Diameter": "3.0000 mm",
+  "Length": "40.0000 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "0.8700 mm",
+  "ShankDiameter": "3.0000 mm",
+  "NeckDiameter": "1.9954 mm",
+  "NeckHeight": "38.1300 mm",
+  "TipDiameter": "1.9954 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "dovetail mill",
+  "iso13399": {
+   "DC": 3,
+   "DMM": 3,
+   "APMX": 0.87,
+   "OAL": 40,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 6,
+   "TA": 29.999999999999996,
+   "unit": "mm"
+  },
+  "vendor": "DATRON",
+  "library": "autodesk/DATRON_DATRON_Cutting_Tools",
+  "product_link": null,
+  "source_file": "autodesk/fusion/DATRON_DATRON_Cutting_Tools.json"
+ }
+}

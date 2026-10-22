@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "ISCAR 3418091",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 3,
+   "NOF": 3,
+   "RE": null,
+   "ND": 1,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "ISCAR",
+  "library": "autodesk/Iscar_Iscar_Solid_End_Mills_Imperial",
+  "product_link": "https://www.Iscar.com/ecat/e.asp?cat=3418091",
+  "source_file": "autodesk/fusion/Iscar_Iscar_Solid_End_Mills_Imperial.json"
+ }
+}

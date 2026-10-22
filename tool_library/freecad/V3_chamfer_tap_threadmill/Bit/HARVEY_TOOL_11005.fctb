@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 11005",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "38.1000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "center drill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 0.11694,
+   "OAL": 1.5,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.11694,
+   "TA": 118,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-11005",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json"
+ }
+}

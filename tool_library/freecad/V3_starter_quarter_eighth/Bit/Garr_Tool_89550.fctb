@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Garr Tool 89550",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "82.5500 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 6.35,
+   "APMX": 50.8,
+   "OAL": 82.55,
+   "NOF": 2,
+   "RE": null,
+   "ND": 50.8,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=89550",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json"
+ }
+}

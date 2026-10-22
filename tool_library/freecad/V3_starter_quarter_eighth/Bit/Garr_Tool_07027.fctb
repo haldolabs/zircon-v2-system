@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "Garr Tool 07027",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "2.4130 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 6.35,
+   "APMX": 25.4,
+   "OAL": 76.2,
+   "NOF": 3,
+   "RE": 0.762,
+   "ND": 25.4,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=07027",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json"
+ }
+}

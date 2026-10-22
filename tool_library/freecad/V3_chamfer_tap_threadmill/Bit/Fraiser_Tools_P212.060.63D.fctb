@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools P212.060.63D",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "50.0000 mm",
+  "CuttingEdgeAngle": "70.0000 \u00b0",
+  "CuttingEdgeHeight": "6.0000 mm",
+  "ShankDiameter": "6.3500 mm",
+  "TipDiameter": "0.0500 mm"
+ },
+ "attribute": {
+  "Flutes": 1,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 6.350000000000001,
+   "DMM": 6.350000000000001,
+   "APMX": 6,
+   "OAL": 50,
+   "NOF": 1,
+   "RE": null,
+   "ND": 30,
+   "TA": 35,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Boss_Beaver",
+  "product_link": "https://www.fraisertools.com/it/jupiter-fresa-rivestita-per-lettere.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Boss_Beaver.json"
+ }
+}

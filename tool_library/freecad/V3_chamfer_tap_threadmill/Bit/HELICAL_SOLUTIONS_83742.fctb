@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HELICAL SOLUTIONS 83742",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "4.7625 mm",
+  "Length": "50.8000 mm",
+  "TipAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 0.1875,
+   "DMM": 0.1875,
+   "APMX": 0.625,
+   "OAL": 2,
+   "NOF": 4,
+   "RE": 0,
+   "ND": 0.625,
+   "TA": 60,
+   "unit": "in"
+  },
+  "vendor": "HELICAL SOLUTIONS",
+  "library": "autodesk/Helical_Solutions_Specialty_Profiles",
+  "product_link": "https://www.helicaltool.com/products/tool-details-83742",
+  "source_file": "autodesk/fusion/Helical_Solutions_Specialty_Profiles.json"
+ }
+}

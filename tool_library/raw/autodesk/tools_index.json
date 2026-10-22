@@ -1,0 +1,498 @@
+[
+    {
+        "description": "Harvey Tool - End Mills",
+        "longDescription": "Think Harvey Tool First for all of your applications. Harvey Tool’s expansive tool library includes a vast product offering of hard-to-find end mills and miniature ends mills designed for high precision machining. Included in this library are Miniature End Mills as small as .001” and Material Specific End Mills as large in diameter as .750”. Find specialized geometries to enhance tool and part results in materials ranging from Aluminum and Plastics to Hardened Steels and Exotic Alloys. Harvey Tool End Mill library updated to include new tools released in our Spring 2021 catalog.",
+        "vendor": "Harvey Tool",
+        "vendorUrl": "http://www.harveytool.com",
+        "revision": 6,
+        "path": "Harvey Tool/End Mills",
+        "thumbnail": "Harvey Tool/End Mills",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=4163686536623143133",
+        "desktop": true
+    },
+    {
+        "description": "Harvey Tool - Holemaking and Threading",
+        "longDescription": "Featuring material-specific geometries and tight tolerances, Harvey Tool’s broad offering of Holemaking and Threading tools is perfect for challenging operations that demand high accuracy and repeatability. This library includes a variety of single form, tri-form, and multi-form Thread Milling Cutters, as well as High Performance Drills, Counterbores, Miniature Reamers, and more. Harvey Tool Holemaking and Threading library updated to include new tools released in our Spring 2021 catalog.",
+        "vendor": "Harvey Tool",
+        "vendorUrl": "http://www.harveytool.com",
+        "revision": 6,
+        "path": "Harvey Tool/Holemaking and Threading",
+        "thumbnail": "Harvey Tool/Holemaking and Threading",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=4163686536623143133",
+        "desktop": true
+    },
+    {
+        "description": "Harvey Tool - Specialty Profiles",
+        "longDescription": "At Harvey Tool, Your Specials Are Our Standards™. This tool library, encompassing nearly 8000 tools, includes the niche tools you've always been left to specially quote, but that Harvey Tool has fully stocked at its location. Browse everything from Keyseat Cutters to Undercutting End Mills in this comprehensive tooling library. Harvey Tool Specialty Profile library updated to include new tools released in our Spring 2021 catalog.",
+        "vendor": "Harvey Tool",
+        "vendorUrl": "http://www.harveytool.com",
+        "revision": 6,
+        "path": "Harvey Tool/Specialty Profiles",
+        "thumbnail": "Harvey Tool/Specialty Profiles",
+        "desktop": true
+    },
+    {
+        "description": "Helical Solutions - End Mills",
+        "longDescription": "Let Helical Impress You with our high-performance end mills. From Chipbreaker Roughers to Multi-Flute Finishers, Helical Solutions’ high performance end mills are designed to perform specific jobs with the precision, dependability, and repeatability that machinists demand. Within this tool library, find hundreds of end mills built specifically for Aluminum & Non-Ferrous Alloys, as well as Steels, Titanium, and High-Temp Alloys, each engineered with the specific features your application requires. All Helical Solutions End Mills updated to include new tools released in our 2020 catalog.",
+        "vendor": "Helical Solutions",
+        "vendorUrl": "http://www.helicaltool.com",
+        "revision": 4,
+        "path": "Helical Solutions/End Mills",
+        "thumbnail": "Helical Solutions/End Mills",
+        "desktop": true
+    },
+    {
+        "description": "Helical Solutions - Specialty Profiles",
+        "longDescription": "Helical customers have long been impressed by its offering of top shelf chamfer mills, and seldom look elsewhere once experiencing the difference Helical tooling delivers. This library includes a variety of straight flute chamfer mills, helical flute chamfer mills, and high performance combination chamfer / end mills. Helical Solutions Specialty Profile library updated to include new tools released in our 2021 catalog.",
+        "vendor": "Helical Solutions",
+        "vendorUrl": "http://www.helicaltool.com",
+        "revision": 1,
+        "path": "Helical Solutions/Specialty Profiles",
+        "thumbnail": "Helical Solutions/Specialty Profiles",
+        "desktop": true
+    },
+    {
+        "description": "BitsBits Cutting Tools",
+        "longDescription": "We are one of the leaders in the manufacturing and supplying of spiral bits, wood router bits, high performance end mills, engraving cutters and many other rotary cutting tools for industrial and medical applications. Our small family business relies on over 30 years of dedicated employee experience and knowledge in these fields. We combined this experience with our state-of-the-art CNC equipment and continuous quality improvements to provide our customers with superior products. In addition, we strive to give every customer fast service at the best price. We continue to introduce new tools to the CNC milling industry, many in response to our customers’ needs. We sell our tools around the globe and most orders can be shipped same day.",
+        "vendor": "Bits & Bits",
+        "vendorUrl": "https://bitsbits.com",
+        "revision": 1,
+        "path": "BitsBits/BitsBits Cutting Tools",
+        "thumbnail": "BitsBits/logo"
+    },
+    {
+        "description": "IMCO - Solid End Mills Metric",
+        "longDescription": "Higher productivity isn’t just our mission, it’s our mantra, and is part of everything that we do. Applying advanced technologies in new ways, fine-tuning tool geometries, and testing new cutting methods are just some of the ways that we at IMCO are developing solutions for today’s machining needs. At IMCO, we use our hands-on machining experience along with the latest technologies to drive our efforts to solve the machining challenges that our customers face today. With new, productivity-driven solutions being constantly researched and developed, you can be assured quality products with proven, reliable performance, every time.",
+        "vendor": "IMCO Carbide Tool",
+        "vendorUrl": "https://www.imcousa.com",
+        "revision": 2,
+        "path": "IMCO/Solid End Mills Metric",
+        "thumbnail": "IMCO/IMCO",
+        "desktop": true
+    },
+    {
+        "description": "IMCO - Solid End Mills Imperial",
+        "longDescription": "Higher productivity isn’t just our mission, it’s our mantra, and is part of everything that we do. Applying advanced technologies in new ways, fine-tuning tool geometries, and testing new cutting methods are just some of the ways that we at IMCO are developing solutions for today’s machining needs. At IMCO, we use our hands-on machining experience along with the latest technologies to drive our efforts to solve the machining challenges that our customers face today. With new, productivity-driven solutions being constantly researched and developed, you can be assured quality products with proven, reliable performance, every time.",
+        "vendor": "IMCO Carbide Tool",
+        "vendorUrl": "https://www.imcousa.com",
+        "revision": 3,
+        "path": "IMCO/Solid End Mills Imperial",
+        "thumbnail": "IMCO/IMCO",
+        "desktop": true
+    },
+    {
+        "description": "KYOCERA SGS Carbide Tools Metric",
+        "longDescription": "KYOCERA SGS Precision Tools actively maintains a serious customer commitment to providing Value at the Spindle®. Whether your value is measured in terms of cost savings, time savings, or ease of use, our solutions consistently deliver results. We take great pride in our customers' success which continually fuels our innovation and next level cutting tool technology performance.",
+        "vendor": "KYOCERA SGS Precision Tools",
+        "vendorUrl": "https://www.kyocera-sgstool.com",
+        "revision": 1,
+        "path": "SGS Kyocera/SGS Carbide Tools Metric",
+        "thumbnail": "SGS Kyocera/logo"
+    },
+    {
+        "description": "KYOCERA SGS Carbide Tools Imperial",
+        "longDescription": "KYOCERA SGS Precision Tools actively maintains a serious customer commitment to providing Value at the Spindle®. Whether your value is measured in terms of cost savings, time savings, or ease of use, our solutions consistently deliver results. We take great pride in our customers' success which continually fuels our innovation and next level cutting tool technology performance.",
+        "vendor": "KYOCERA SGS Precision Tools",
+        "vendorUrl": "https://www.kyocera-sgstool.com",
+        "revision": 1,
+        "path": "SGS Kyocera/SGS Carbide Tools Imperial",
+        "thumbnail": "SGS Kyocera/logo"
+    },
+    {
+        "description": "Haas Tooling",
+        "longDescription": "Haas Tested. Haas Proven. Haas Value. These high-quality cutting tools, inserts, and toolholders are the same tools we use in our own state-of-the-art machine shop to produce high-precision machined castings and components every day. Haas cutting tools are rigorously tested by our expert-level machinists to ensure they deliver the performance, quality, and value that you demand. Available online at HaasTooling.com, and shipped directly to you",
+        "vendor": "Haas Tooling",
+        "vendorUrl": "https://www.HaasTooling.com",
+        "revision": 5,
+        "thumbnail": "Haas Tooling/thumbnail",
+        "path": "Haas Tooling/Haas Tooling",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=6440035198929317926",
+        "desktop": true
+    },
+    {
+        "description": "Haas Holders",
+        "longDescription": "Haas Tested. Haas Proven. Haas Value. These high-quality cutting tools, inserts, and toolholders are the same tools we use in our own state-of-the-art machine shop to produce high-precision machined castings and components every day. Haas cutting tools are rigorously tested by our expert-level machinists to ensure they deliver the performance, quality, and value that you demand. Available online at HaasTooling.com, and shipped directly to you",
+        "vendor": "Haas Tooling",
+        "vendorUrl": "https://www.HaasTooling.com",
+        "revision": 3,
+        "thumbnail": "Haas Tooling/thumbnail",
+        "path": "Haas Tooling/Haas Holders",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=6440035198929317926",
+        "desktop": true
+    },
+    {
+        "description": "Haimer Holders",
+        "longDescription": "During machining, specific demands for tool holding are laid down by each industry and application. The range varies from high-speed cutting to heavy roughing. With the HAIMER tool holders, HAIMER offers the right solution and tool clamping technology for all specific requirements. Our primary interest is to offer our customers sustainable solutions which enable a competitive advantage.",
+        "vendor": "Haimer",
+        "vendorUrl": "https://www.haimer.biz",
+        "revision": 1,
+        "thumbnail": "Haimer/Haimer Holders",
+        "path": "Haimer/Haimer Holders",
+        "desktop": true
+    },
+    {
+        "description": "SwiftCARB - End Mills",
+        "longDescription": "End mills for SwiftCARB.",
+        "vendor": "SwiftCARB",
+        "vendorUrl": "https://www.swiftcarb.com",
+        "revision": 1,
+        "path": "SwiftCARB/End Mills",
+        "desktop": false
+    },
+    {
+        "description": "DATRON - Cutting Tools",
+        "vendor": "DATRON",
+        "vendorUrl": "https://www.datron.com",
+        "revision": 2,
+        "path": "DATRON/DATRON Cutting Tools",
+        "desktop": true
+    },
+    {
+        "description": "Delta Tools - HPC Endmill Solid Carbide",
+        "longDescription": "Deltamill is a Dutch manufacturer and partner of Autodesk reseller Cadac Group for advanced High Performance solid carbide Endmills for every type of CNC machinist. Our passion is to deliver the best possible endmills at the best price. We have the obligation to continuously search fort he best (German) carbide, the best geometries on Macro and Micro level, and the best Coatings of European coating centers. Our well-known endmill programm Agressor-series are phenomenal. Very popular are our Trochiodal endmills for adaptive milling processes guarantee very high cutting volumes and long tool life!! We challenge you!!",
+        "vendor": "Delta Tools",
+        "vendorUrl": "http://www.deltatools.nl",
+        "revision": 1,
+        "path": "Delta Tools/HPC Endmill Solid Carbide"
+    },
+    {
+        "description": "Destiny Tool",
+        "longDescription": "Located in the heart of Silicon Valley, Destiny Tool has developed a series of high performance end mills for for use in non ferrous and high temperature alloys. Our unique cutting tools are specifically designed for heavy cuts and very high material removal rates (MRR) while at the same time providing a a surface finish more commonly found in finishing tools.",
+        "vendor": "Destiny Tool",
+        "vendorUrl": "https://www.destinytool.com",
+        "revision": 2,
+        "path": "Destiny Tool/Destiny Tool",
+        "desktop": true
+    },
+    {
+        "description": "Renishaw - OMP Probes",
+        "vendor": "Renishaw",
+        "vendorUrl": "http://www.renishaw.com",
+        "revision": 1,
+        "path": "Renishaw/Renishaw - OMP Probes"
+    },
+    {
+        "description": "Blum Touch Probes",
+        "longDescription": "Blum-Novotest a global leader in technology and innovation in measuring and testing technology. A reliable partner to the global machine tool, automotive and aerospace industries.",
+        "vendor": "Blum",
+        "vendorUrl": "https://www.blum-novotest.com",
+        "revision": 1,
+        "path": "Blum/Blum Probes",
+        "thumbnail": "Blum/logo"
+    },
+    {
+        "description": "Tormach - 15L Slant-PRO - Starter",
+        "longDescription": "Use this tool library to run through the starter exercise for your Tormach 15L Slant-PRO.",
+        "vendor": "Tormach",
+        "vendorUrl": "https://www.tormach.com",
+        "revision": 1,
+        "path": "Tormach/Tormach - 15L Slant-PRO - Starter",
+        "thumbnail": "Tormach/Tormach - 15L Slant-PRO - Starter"
+    },
+    {
+        "description": "Tormach - PCNC 440, PCNC 770 - Starter",
+        "longDescription": "Use this tool library to run through the starter exercise for your Tormach PCNC 440 or 770.",
+        "vendor": "Tormach",
+        "vendorUrl": "https://www.tormach.com",
+        "revision": 1,
+        "path": "Tormach/Tormach - PCNC 440, PCNC 770 - Starter"
+    },
+    {
+        "description": "Tormach - PCNC 1100 - Starter",
+        "longDescription": "Use this tool library to run through the starter exercise for your Tormach PCNC 1100.",
+        "vendor": "Tormach",
+        "vendorUrl": "https://www.tormach.com",
+        "revision": 1,
+        "path": "Tormach/Tormach - PCNC 1100 - Starter",
+        "thumbnail": "Tormach/Tormach - PCNC 1100 - Starter"
+    },
+    {
+        "description": "Sandvik Coromant - Solid End Mills",
+        "longDescription": "The Solid end mills library covers an assortment of high-quality solid carbide end mills that offer productive, efficient, and perfectly reliable milling solutions. Featuring tools for heavy roughing, finishing, profiling and thread milling.",
+        "vendor": "Sandvik Coromant",
+        "vendorUrl": "https://www.sandvik.coromant.com",
+        "revision": 2,
+        "path": "Sandvik Coromant/Solid End Mills",
+        "thumbnail": "Sandvik Coromant/Solid End Mills",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=5686383698852266117",
+        "desktop": true
+    },
+    {
+        "description": "Sandvik Coromant - Solid Hole Making",
+        "longDescription": "The Solid hole making library covers all applications types within the areas of solid carbide drilling, HSS tapping, reaming and threading. Each solid round tool is designed to fulfill the demands of high quality, precision and maximum productivity so you can get the most out of your machining process.",
+        "vendor": "Sandvik Coromant",
+        "vendorUrl": "https://www.sandvik.coromant.com",
+        "revision": 2,
+        "path": "Sandvik Coromant/Solid Hole Making",
+        "thumbnail": "Sandvik Coromant/Solid Hole Making",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=5686383698852266117",
+        "desktop": true
+    },
+    {
+        "description": "Guhring - Solid Hole Making",
+        "longDescription": "In 1898 Guhring produced the first HSS drill bit and remains true to its beginnings. Our variety of drilling tools is unparalleled in the market. The product range stretches from micro-precision drills Ø 0.05 mm to special solutions with Ø 180 mm and from HSS drill bits to solid carbide or PCD.",
+        "vendor": "Guhring",
+        "vendorUrl": "https://www.guhring.com",
+        "revision": 2,
+        "path": "Guhring/Solid Hole Making",
+        "thumbnail": "Guhring/Solid Hole Making"
+    },
+    {
+        "description": "NEXGEN Tooling",
+        "longDescription": "NEXGEN Tooling LLC is a manufacturer of high-performance cutting tools specializing in manufacturing tight tolerance carbide cutting tools for manufacturers worldwide. By utilizing our experience, expertise, state-of-the-art equipment, and patented tool designs, we deliver results that improve your capabilities, optimize performance, and stretch your tooling budget.",
+        "vendor": "NexGen Tooling",
+        "vendorUrl": "https://www.nexgentooling.com",
+        "revision": 2,
+        "path": "NexGen Tooling/NexGen Tooling",
+        "thumbnail": "NexGen Tooling/NexGen Tooling"
+    },
+    {
+        "description": "GARR TOOL",
+        "longDescription": "GARR TOOL sets the standard when it comes to high performance tools. GARR manufactures the highest quality carbide cutting tools with competitive prices and unparalleled customer service.",
+        "vendor": "Garr Tool",
+        "vendorUrl": "https://www.garrtool.com",
+        "revision": 1,
+        "path": "Garr Tool/Garr Tool"
+    },
+    {
+        "description": "Valor Holemaking",
+        "longDescription": "Featuring Valor Holemaking High Performance Drills and complementary holemaking solutions, this tool library includes American-made products that are meticulously tested and fine-tuned to deliver outstanding hole accuracy and repeatability, exceptional surface finish, amazing tool life and performance, and impressive cost-per-hole results. Included in this library: High Performance Drills for Aluminum & Aluminum Alloys from 1.587 mm to 12.700 mm in diameter, High Performance Drills for Steels from 1.587 mm to 12.700 mm in diameter, All Valor Holemaking products updated as of July 2023",
+        "vendor": "Valor Holemaking",
+        "vendorUrl": "https://www.valorholemaking.com",
+        "revision": 2,
+        "path": "Valor Holemaking/Valor Holemaking",
+        "thumbnail": "Valor Holemaking/Valor Holemaking",
+        "addinAndTools": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=7622967488772131668"
+    },
+    {
+        "description": "OSG Tools - End Mills",
+        "longDescription": "OSG is a leading manufacturer of taps, end mills, drills, and thread-making tools. We offer an extensive line of high technology cutting tools featuring exclusive metallurgy, cutting geometries, and proprietary surface treatments to help increase productivity, reliability, and tool life. Through continuous innovations, OSG strives to provide customers with superior cutting tool technology, experience, and quality that matters. Currently, our library cover A-Brand square endmills.",
+        "vendor": "OSG Tools",
+        "vendorUrl": "https://www.osgtool.com",
+        "revision": 1,
+        "path": "OSG/End Mills",
+        "thumbnail": "OSG/OSGlogo",
+        "hidden": true,
+        "excludeFromFusion": true
+    },
+    {
+        "description": "Dormer Pramet Tooling",
+        "longDescription": "The Dormer Pramet tool library add-in gives you access to Dormer Pramet tools and holders, creating quick an easy cutting tool selection for Autodesk Fusion. The library is hosted and maintained by Dormer Pramet to ensure you have access to the latest tools in their catalog.",
+        "vendor": "Dormer Pramet Tooling",
+        "vendorUrl": "https://www.dormerpramet.com",
+        "path": "Dormer Pramet/Dormer Pramet",
+        "thumbnail": "Dormer Pramet/thumbnail",
+        "revision": 1,
+        "addin": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=8140691554068349137"
+    },
+    {
+        "description": "Kennametal Tools",
+        "longDescription": "Kennametal continuously strives to deliver proven machining and manufacturing solutions with the Autodesk Fusion platform. This add-in allows one to find and select cutting tools for your workpiece, Recommends cutting data and imports the into fusion tool library.",
+        "vendor": "Kennametal Tools",
+        "vendorUrl": "https://www.kennametal.com",
+        "path": "Kennametal/Kennametal",
+        "thumbnail": "Kennametal/thumbnail",
+        "revision": 1,
+        "addin": true,
+        "addinUrl": "https://apps.autodesk.com/FUSION/en/Detail/Index?id=3243256861690475564"
+    },
+    {
+        "description": "ISCAR - Holemaking Imperial",
+        "longDescription": "ISCAR's solid carbide drills. This library of solid carbide drills contains the full assortment of ISCAR'S solid carbide drilling solutions for application in all material types. The range of inch drills offered covers from .032in thru .750in and includes common length to diameter (L×D) ratios of 3xD thru 8xD, as well as extreme length solid carbide drilling solutions that cover common length to diameter ratios of up to 50xD.",
+        "vendor": "ISCAR",
+        "vendorUrl": "https://www.iscar.com",
+        "revision": 1,
+        "path": "Iscar/Iscar Hole Making Imperial",
+        "thumbnail": "Iscar/Iscar Hole Making"
+    },
+    {
+        "description": "ISCAR - Holemaking Metric",
+        "longDescription": "ISCAR's solid carbide drills. This library of solid carbide drills contains the full assortment of ISCAR'S solid carbide drilling solutions for application in all material types. The range of metric drills offered covers from 0.8mm thru 20mm and includes common length to diameter (L×D) ratios of 3xD thru 8xD, as well as extreme length solid carbide drilling solutions that cover common length to diameter ratios of up to 50xD.",
+        "vendor": "ISCAR",
+        "vendorUrl": "https://www.iscar.com",
+        "revision": 1,
+        "path": "Iscar/Iscar Hole Making Metric",
+        "thumbnail": "Iscar/Iscar Hole Making"
+    },
+    {
+        "description": "ISCAR - Solid End Mills Imperial",
+        "longDescription": "ISCAR's solid end mills. This library of solid carbide end mill contains the full assortment of ISCAR'S solid carbide milling solutions for application in all material types. The range of inch mills offered covers from .062in thru 1.250in.",
+        "vendor": "ISCAR",
+        "vendorUrl": "https://www.iscar.com",
+        "revision": 1,
+        "path": "Iscar/Iscar Solid End Mills Imperial",
+        "thumbnail": "Iscar/Iscar Solid Mills"
+    },
+    {
+        "description": "ISCAR - Solid End Mills Metric",
+        "longDescription": "ISCAR's solid end mills. This library of solid carbide end mill contains the full assortment of ISCAR'S solid carbide milling solutions for application in all material types. The range of metric mills offered covers from .4mm thru 25mm.",
+        "vendor": "ISCAR",
+        "vendorUrl": "https://www.iscar.com",
+        "revision": 1,
+        "path": "Iscar/Iscar Solid End Mills Metric",
+        "thumbnail": "Iscar/Iscar Solid Mills"
+    },
+    {
+        "description": "Fraiser Boss Beaver",
+        "longDescription": "Fraiser Boss Beaver is the original wood router bit that allows you to definitively solve all problems related to high abrasion, poor chip flow and chemical aggression, which occur during milling, ensuring that the router bit lasts 3 to 4 times longer than the uncoated Fraiser equivalent.",
+        "vendor": "Fraiser Tools",
+        "vendorUrl": "https://www.fraisertools.com",
+        "revision": 1,
+        "path": "Fraiser Tools/Boss Beaver",
+        "thumbnail": "Fraiser Tools/Boss Beaver"
+    },
+    {
+        "description": "Fraiser Carbider Poly",
+        "longDescription": "Fraiser Carbider Poly is the original router bit for plastics, light alloys and composite materials which, thanks to its lapped cutting edges and cutting angles designed for this type of material, allows you to mill smoothly and without melting, ensuring an unparalleled finish and durability.",
+        "vendor": "Fraiser Tools",
+        "vendorUrl": "https://www.fraisertools.com",
+        "revision": 1,
+        "path": "Fraiser Tools/Carbider Poly",
+        "thumbnail": "Fraiser Tools/Carbider Poly"
+    },
+    {
+        "description": "XEBEC Back Burr Cutter",
+        "longDescription": "XEBEC Technology develops, manufactures, and distributes innovative tools for deburring, polishing, chamfering, and surface finishing. Currently, this tool library includes XEBEC Back Burr Cutter, a lollipop cutter featuring optimized edge design and superior edge sharpness for deburring.",
+        "vendor": "XEBEC",
+        "vendorUrl": "https://www.xebec-tech.com/en/",
+        "revision": 1,
+        "path": "XEBEC/XEBEC Deburring tools",
+        "thumbnail": "XEBEC/logo"
+    },
+    {
+        "description": "Schunk Holders",
+        "longDescription": "The innovative and highly precise toolholding systems cover a unique range. Discover SCHUNK’s vast range of products. We focus on your particular case of application and will always find the optimum toolholding system for your task.",
+        "vendor": "Schunk",
+        "vendorUrl": "https://www.schunk.com",
+        "revision": 1,
+        "thumbnail": "Schunk/Schunk Holders",
+        "path": "Schunk/Schunk Holders"
+    },
+    {
+        "description": "Kennametal Turning Imperial",
+        "longDescription": "Kennametal continuously strives to deliver proven machining and manufacturing solutions with the Autodesk Fusion platform.",
+        "vendor": "Kennametal",
+        "vendorUrl": "https://www.kennametal.com",
+        "path": "Kennametal/Turning Imperial/Turning Imperial",
+        "thumbnail": "Kennametal/thumbnail",
+        "revision": 1,
+        "hidden": true
+    },
+    {
+        "description": "Kennametal Turning Metric",
+        "longDescription": "Kennametal continuously strives to deliver proven machining and manufacturing solutions with the Autodesk Fusion platform.",
+        "vendor": "Kennametal",
+        "vendorUrl": "https://www.kennametal.com",
+        "path": "Kennametal/Turning Metric/Turning Metric",
+        "thumbnail": "Kennametal/thumbnail",
+        "revision": 1,
+        "hidden": true
+    },
+    {
+        "description": "M.A. Ford",
+        "longDescription": "Innovation is what drives us. Actively searching for fresh solutions to new technical and manufacturing challenges that enable our customers to improve productivity, accuracy, and performance by relying on M.A.Ford® to deliver. Our extensive range of tooling and ‘Integrated Manufacturing Solutions’ has developed and evolved to become a virtual byword for precision and performance. The principles of high precision and high quality extend beyond our tooling and are present in every aspect of M.A.Ford to ensure customer demands are consistently met at all levels.",
+        "vendor": "M.A. Ford",
+        "vendorUrl": "https://www.maford.com",
+        "revision": 2,
+        "thumbnail": "MA Ford/MAFord",
+        "path": "MA Ford/MA Ford End Mills"
+    },
+    {
+        "description": "M.A. Ford Europe",
+        "longDescription": "Innovation is what drives us. Actively searching for fresh solutions to new technical and manufacturing challenges that enable our customers to improve productivity, accuracy, and performance by relying on M.A.Ford® to deliver. Our extensive range of tooling and ‘Integrated Manufacturing Solutions’ has developed and evolved to become a virtual byword for precision and performance. The principles of high precision and high quality extend beyond our tooling and are present in every aspect of M.A.Ford Europe to ensure customer demands are consistently met at all levels.",
+        "vendor": "M.A. Ford Europe",
+        "vendorUrl": "https://www.mafordeurope.com",
+        "revision": 1,
+        "thumbnail": "MA Ford Europe/MAFord",
+        "path": "MA Ford Europe/End Mills"
+    },
+    {
+        "description": "Sandvik Turning Imperial",
+        "longDescription": "Sandvik library containing turning tools with 3d holders in imperial dimension.",
+        "vendor": "Sandvik Coromant",
+        "vendorUrl": "https://www.sandvik.coromant.com",
+        "path": "Sandvik Coromant/Turning Imperial/Turning Imperial",
+        "thumbnail": "Sandvik Coromant/sandvik",
+        "revision": 1,
+        "hidden": true
+    },
+    {
+        "description": "Sandvik Turning Metric",
+        "longDescription": "Sandvik library containing turning tools with 3d holders in metric dimension.",
+        "vendor": "Sandvik Coromant",
+        "vendorUrl": "https://www.sandvik.coromant.com",
+        "path": "Sandvik Coromant/Turning Metric/Turning Metric",
+        "thumbnail": "Sandvik Coromant/sandvik",
+        "revision": 1,
+        "hidden": true
+    },
+    {
+        "description": "ISCAR Turning Imperial",
+        "vendor": "ISCAR",
+        "vendorUrl": "https://www.iscar.com",
+        "revision": 1,
+        "path": "Iscar/Turning Imperial/Turning Imperial",
+        "thumbnail": "Iscar/iscar",
+        "hidden": true
+    },
+    {
+        "description": "ISCAR Turning Metric",
+        "vendor": "ISCAR",
+        "vendorUrl": "https://www.iscar.com",
+        "revision": 1,
+        "path": "Iscar/Turning Metric/Turning Metric",
+        "thumbnail": "Iscar/iscar",
+        "hidden": true
+    },
+    {
+        "description": "Mitsubishi Materials - Solid End Mills",
+        "longDescription": "Mitsubishi Materials’ solid end mills deliver high cutting performance through integrated in-house development from substrate to coating technology. The SMART MIRACLE and IMPACT MIRACLE series combine proprietary coatings and unequal helix design for wear resistance and stable machining in difficult-to-cut materials. Anti-chatter geometry and efficient chip evacuation enable high-feed, high-efficiency machining. The MS plus series covers a wide range of materials with strong cost performance, balancing tool life, stability, and productivity.<br><br>三菱マテリアルのソリッドエンドミルは、母材設計からコーティングまでの一貫した自社開発により、優れた切削性能を実現。SMART MIRACLEやIMPACT MIRACLEシリーズは、独自コーティングと不等リード設計により、難削材でも高い耐摩耗性と安定加工を実現し、びびり抑制形状と優れた切りくず排出性で高送り・高能率加工に対応します。MS plusシリーズ等の汎用ラインは、幅広い被削材に対応しつつ高いコストパフォーマンスを備え、長寿命・加工安定性・生産性向上を高次元で両立できる点が大きな特徴である。",
+        "vendor": "Mitsubishi Materials",
+        "vendorUrl": "https://www.mmc-carbide.com/en_jp",
+        "revision": 1,
+        "path": "Mitsubishi Materials/Solid End Mills",
+        "thumbnail": "Mitsubishi Materials/Solid End Mills",
+        "addinAndTools": true,
+        "addinUrl": "https://marketplace.autodesk.com/apps/cae8a66c-3248-4205-a005-036d48379426"
+    },
+    {
+        "description": "Ingersoll Turning Imperial",
+        "vendor": "Ingersoll",
+        "vendorUrl": "https://www.ingersoll-imc.com/",
+        "revision": 1,
+        "path": "Ingersoll/Turning Imperial/Turning Imperial",
+        "hidden": true
+    },
+    {
+        "description": "Ingersoll Turning Metric",
+        "vendor": "Ingersoll",
+        "vendorUrl": "https://www.ingersoll-imc.com/",
+        "revision": 1,
+        "path": "Ingersoll/Turning Metric/Turning Metric",
+        "hidden": true
+    },
+    {
+        "description": "Widia Turning Imperial",
+        "vendor": "Widia",
+        "vendorUrl": "https://www.widia.com",
+        "revision": 1,
+        "path": "Widia/Turning Imperial/Turning Imperial",
+        "hidden": true
+    },
+    {
+        "description": "Widia Turning Metric",
+        "vendor": "Widia",
+        "vendorUrl": "https://www.widia.com",
+        "revision": 1,
+        "path": "Widia/Turning Metric/Turning Metric",
+        "hidden": true
+    }
+]

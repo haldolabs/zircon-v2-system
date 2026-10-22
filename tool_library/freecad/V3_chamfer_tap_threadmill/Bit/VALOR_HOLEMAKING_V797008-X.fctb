@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V797008-X",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "11.1125 mm",
+  "Length": "69.8500 mm",
+  "TipAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "center drill",
+  "iso13399": {
+   "DC": 0.4375,
+   "DMM": 0.4375,
+   "APMX": 0.46034,
+   "OAL": 2.75,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.46034,
+   "TA": 60,
+   "unit": "in"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V797008-X",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

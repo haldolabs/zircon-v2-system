@@ -1,0 +1,7 @@
+Dormer Pramet/Dormer Pramet
+Ingersoll/Turning Imperial/Turning Imperial
+Ingersoll/Turning Metric/Turning Metric
+Kennametal/Kennametal
+Kennametal/Turning Metric/Turning Metric
+Widia/Turning Imperial/Turning Imperial
+Widia/Turning Metric/Turning Metric

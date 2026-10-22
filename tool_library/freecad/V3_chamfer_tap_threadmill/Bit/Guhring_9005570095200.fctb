@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Guhring 9005570095200",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "9.5199 mm",
+  "Length": "89.0001 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 0.3748,
+   "DMM": 0.374803,
+   "APMX": 0.9842519999999998,
+   "OAL": 3.5039399999999996,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.9842519999999998,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Guhring",
+  "library": "autodesk/Guhring_Solid_Hole_Making",
+  "product_link": "https://www.guhring.com/ProductsServices/SizeDetails?EDP=9005570095200",
+  "source_file": "autodesk/fusion/Guhring_Solid_Hole_Making.json"
+ }
+}

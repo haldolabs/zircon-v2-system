@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "SwiftCARB GM02502CS00IS00M",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "152.4000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 6,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 1,
+   "TA": 0,
+   "unit": "in"
+  },
+  "vendor": "SwiftCARB",
+  "library": "autodesk/SwiftCARB_End_Mills",
+  "product_link": null,
+  "source_file": "autodesk/fusion/SwiftCARB_End_Mills.json"
+ }
+}

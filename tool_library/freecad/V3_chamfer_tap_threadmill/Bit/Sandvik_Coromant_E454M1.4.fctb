@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant E454M1.4",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "1.4000 mm",
+  "Length": "40.5500 mm",
+  "ShankDiameter": "2.5000 mm",
+  "NeckDiameter": "1.1200 mm",
+  "NeckLength": "27.5500 mm",
+  "Crest": "0.0900 mm",
+  "cuttingAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "tap_pitch_mm": 0.3,
+  "note": "TAP represented with FreeCAD's thread-mill shape (cylindrical envelope with thread crest); FreeCAD 1.0 has no tap shape. Pitch kept in attribute.tap_pitch_mm",
+  "fusion_type": "tap right hand",
+  "iso13399": {
+   "DC": 1.4,
+   "DMM": 2.5,
+   "APMX": 12,
+   "OAL": 40.55,
+   "NOF": 2,
+   "RE": null,
+   "ND": 20,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_Hole_Making",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=E454M1.4&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_Hole_Making.json"
+ }
+}

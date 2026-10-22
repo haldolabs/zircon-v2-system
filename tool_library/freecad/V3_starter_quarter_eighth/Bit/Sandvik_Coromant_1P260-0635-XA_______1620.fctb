@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant 1P260-0635-XA       1620",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "23.8100 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 6.35,
+   "APMX": 23.81,
+   "OAL": 63.5,
+   "NOF": 3,
+   "RE": null,
+   "ND": 27.5,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_End_Mills",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=1P260-0635-XA%20%20%20%20%20%20%201620&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_End_Mills.json"
+ }
+}

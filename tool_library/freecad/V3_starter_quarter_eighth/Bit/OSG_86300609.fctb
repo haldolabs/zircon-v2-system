@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "OSG 86300609",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "31.7500 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1.25,
+   "OAL": 3,
+   "NOF": 3,
+   "RE": null,
+   "ND": 1.25,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "OSG",
+  "library": "autodesk/OSG_End_Mills",
+  "product_link": "https://osgtool.com/86300609/",
+  "source_file": "autodesk/fusion/OSG_End_Mills.json"
+ }
+}

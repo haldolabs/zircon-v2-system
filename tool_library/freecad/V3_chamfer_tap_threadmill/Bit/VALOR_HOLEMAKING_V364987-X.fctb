@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V364987-X",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "50.8000 mm",
+  "TipAngle": "82.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "center drill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.22314,
+   "OAL": 2,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.22314,
+   "TA": 82,
+   "unit": "in"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V364987-X",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

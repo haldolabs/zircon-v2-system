@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "Garr Tool 41511",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "101.6000 mm",
+  "CuttingEdgeHeight": "38.1000 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 6.35,
+   "APMX": 38.1,
+   "OAL": 101.6,
+   "NOF": 3,
+   "RE": null,
+   "ND": 38.1,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=41511",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json"
+ }
+}

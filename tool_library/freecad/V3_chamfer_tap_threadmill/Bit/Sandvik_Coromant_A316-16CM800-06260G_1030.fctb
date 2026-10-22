@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant A316-16CM800-06260G 1030",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "15.8750 mm",
+  "Length": "35.7000 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "7.7000 mm",
+  "ShankDiameter": "15.5000 mm",
+  "TipDiameter": "7.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 8,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 15.875,
+   "DMM": 15.5,
+   "APMX": 7.7,
+   "OAL": 35.7,
+   "NOF": 8,
+   "RE": null,
+   "ND": 18.7,
+   "TA": 30,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_End_Mills",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=A316-16CM800-06260G%201030&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_End_Mills.json"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 910450-C3",
+ "shape": "dovetail.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "1.1176 mm",
+  "ShankDiameter": "6.3500 mm",
+  "NeckDiameter": "4.1148 mm",
+  "NeckHeight": "74.0824 mm",
+  "TipDiameter": "4.1148 mm"
+ },
+ "attribute": {
+  "Flutes": 5,
+  "Material": "Carbide",
+  "fusion_type": "dovetail mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.044,
+   "OAL": 3,
+   "NOF": 5,
+   "RE": 0,
+   "ND": 0.044,
+   "TA": 45,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-910450-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

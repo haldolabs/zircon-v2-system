@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant R217.14C080100AC16N 1630",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "8.0000 mm",
+  "Length": "63.0000 mm",
+  "ShankDiameter": "8.0000 mm",
+  "NeckDiameter": "8.0000 mm",
+  "NeckLength": "46.0000 mm",
+  "Crest": "0.3000 mm",
+  "cuttingAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "thread mill",
+  "iso13399": {
+   "DC": 8,
+   "DMM": 8,
+   "APMX": 16,
+   "OAL": 63,
+   "NOF": 4,
+   "RE": null,
+   "ND": 27,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_End_Mills",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=R217.14C080100AC16N%201630&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_End_Mills.json"
+ }
+}

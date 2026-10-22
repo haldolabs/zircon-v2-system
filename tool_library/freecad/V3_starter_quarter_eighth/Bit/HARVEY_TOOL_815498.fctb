@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 815498",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "63.5000 mm",
+  "TipAngle": "130.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 1.2291442286,
+   "OAL": 2.5,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 1.3541442286,
+   "TA": 130,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-815498",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json"
+ }
+}

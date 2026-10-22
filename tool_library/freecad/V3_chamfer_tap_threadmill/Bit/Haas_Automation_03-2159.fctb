@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-2159",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "16.0000 mm",
+  "Length": "170.0000 mm",
+  "ShankDiameter": "12.0000 mm",
+  "NeckDiameter": "12.0000 mm",
+  "NeckLength": "149.0000 mm",
+  "Crest": "0.6000 mm",
+  "cuttingAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "HSS",
+  "tap_pitch_mm": 2.0,
+  "note": "TAP represented with FreeCAD's thread-mill shape (cylindrical envelope with thread crest); FreeCAD 1.0 has no tap shape. Pitch kept in attribute.tap_pitch_mm",
+  "fusion_type": "tap right hand",
+  "iso13399": {
+   "DC": 16,
+   "DMM": 12,
+   "APMX": 20,
+   "OAL": 170,
+   "NOF": 3,
+   "RE": null,
+   "ND": 46.54,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Haas Automation",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-2159.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json"
+ }
+}

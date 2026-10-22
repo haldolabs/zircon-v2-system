@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "DATRON 0068485D",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "12.0000 mm",
+  "Length": "50.0000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "counter sink",
+  "iso13399": {
+   "DC": 12,
+   "DMM": 6,
+   "APMX": 4,
+   "OAL": 50,
+   "NOF": 3,
+   "RE": 0,
+   "ND": 6,
+   "TA": 0,
+   "unit": "mm"
+  },
+  "vendor": "DATRON",
+  "library": "autodesk/DATRON_DATRON_Cutting_Tools",
+  "product_link": null,
+  "source_file": "autodesk/fusion/DATRON_DATRON_Cutting_Tools.json"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL DQW2500-C8",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "150.0000 mm",
+  "TipAngle": "130.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 8,
+   "APMX": 89.4805268146,
+   "OAL": 150,
+   "NOF": 3,
+   "RE": 0,
+   "ND": 92.4805268146,
+   "TA": 130,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-DQW2500-C8",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json"
+ }
+}

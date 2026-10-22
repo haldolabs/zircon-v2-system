@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "Bitsbits.com SRB4-125UP",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 2.5,
+   "NOF": 2,
+   "RE": null,
+   "ND": 1.01,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Bitsbits.com",
+  "library": "autodesk/BitsBits_BitsBits_Cutting_Tools",
+  "product_link": "https://bitsbits.com/product/srb4-125up/",
+  "source_file": "autodesk/fusion/BitsBits_BitsBits_Cutting_Tools.json"
+ }
+}

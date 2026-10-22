@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-0344",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "69.8500 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 1.625,
+   "OAL": 2.75,
+   "NOF": 2,
+   "RE": null,
+   "ND": 1.625,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Haas Automation",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-0344.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "DATRON 0068278C",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "3.0000 mm",
+  "Length": "40.0000 mm",
+  "CuttingEdgeAngle": "20.0000 \u00b0",
+  "CuttingEdgeHeight": "8.5069 mm",
+  "ShankDiameter": "3.0000 mm",
+  "TipDiameter": "0.5000 mm"
+ },
+ "attribute": {
+  "Flutes": 1,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 3,
+   "DMM": 3,
+   "APMX": 8.506922729426565,
+   "OAL": 40,
+   "NOF": 1,
+   "RE": 0,
+   "ND": 8.606922729426564,
+   "TA": 10,
+   "unit": "mm"
+  },
+  "vendor": "DATRON",
+  "library": "autodesk/DATRON_DATRON_Cutting_Tools",
+  "product_link": null,
+  "source_file": "autodesk/fusion/DATRON_DATRON_Cutting_Tools.json"
+ }
+}

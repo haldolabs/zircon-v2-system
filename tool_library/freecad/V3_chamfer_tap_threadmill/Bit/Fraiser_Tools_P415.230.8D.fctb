@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools P415.230.8D",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "23.0000 mm",
+  "Length": "60.0000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "11.0000 mm",
+  "ShankDiameter": "8.0000 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 1,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 23,
+   "DMM": 8,
+   "APMX": 11,
+   "OAL": 60,
+   "NOF": 1,
+   "RE": null,
+   "ND": 30,
+   "TA": 45,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Boss_Beaver",
+  "product_link": "https://www.fraisertools.com/it/stylo-fresa-per-incisione-smussi-e-scanalature-a-90.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Boss_Beaver.json"
+ }
+}

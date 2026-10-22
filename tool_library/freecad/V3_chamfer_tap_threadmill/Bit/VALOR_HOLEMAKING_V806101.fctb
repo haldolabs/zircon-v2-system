@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V806101",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "4.1656 mm",
+  "ShankDiameter": "6.3500 mm",
+  "TipDiameter": "1.5240 mm"
+ },
+ "attribute": {
+  "Flutes": 5,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.164,
+   "OAL": 2.5,
+   "NOF": 5,
+   "RE": 0,
+   "ND": 0.164,
+   "TA": 30,
+   "unit": "in"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V806101",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

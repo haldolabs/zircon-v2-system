@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 18425-C3",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "9.5250 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeAngle": "50.0000 \u00b0",
+  "CuttingEdgeHeight": "8.7122 mm",
+  "ShankDiameter": "9.5250 mm",
+  "TipDiameter": "1.5240 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.375,
+   "DMM": 0.375,
+   "APMX": 0.343,
+   "OAL": 2.5,
+   "NOF": 3,
+   "RE": 0,
+   "ND": 0.343,
+   "TA": 25,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-18425-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

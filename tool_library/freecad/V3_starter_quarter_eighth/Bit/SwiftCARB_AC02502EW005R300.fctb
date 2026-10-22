@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "SwiftCARB AC02502EW005R300",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "44.4500 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "2.7940 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1.75,
+   "OAL": 3,
+   "NOF": 2,
+   "RE": 0.015,
+   "ND": 1.75,
+   "TA": 0,
+   "unit": "in"
+  },
+  "vendor": "SwiftCARB",
+  "library": "autodesk/SwiftCARB_End_Mills",
+  "product_link": null,
+  "source_file": "autodesk/fusion/SwiftCARB_End_Mills.json"
+ }
+}

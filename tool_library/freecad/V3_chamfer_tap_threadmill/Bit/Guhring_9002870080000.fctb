@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Guhring 9002870080000",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "25.0000 mm",
+  "Length": "100.0000 mm",
+  "TipAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "center drill",
+  "iso13399": {
+   "DC": 25,
+   "DMM": 25,
+   "APMX": 40,
+   "OAL": 100,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 40,
+   "TA": 60,
+   "unit": "mm"
+  },
+  "vendor": "Guhring",
+  "library": "autodesk/Guhring_Solid_Hole_Making",
+  "product_link": "https://www.guhring.com/ProductsServices/SizeDetails?EDP=9002870080000",
+  "source_file": "autodesk/fusion/Guhring_Solid_Hole_Making.json"
+ }
+}

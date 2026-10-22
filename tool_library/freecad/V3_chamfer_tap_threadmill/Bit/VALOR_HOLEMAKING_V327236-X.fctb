@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V327236-X",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "12.7000 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeAngle": "120.0000 \u00b0",
+  "CuttingEdgeHeight": "3.2004 mm",
+  "ShankDiameter": "12.7000 mm",
+  "TipDiameter": "2.0320 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.5,
+   "DMM": 0.5,
+   "APMX": 0.126,
+   "OAL": 3,
+   "NOF": 3,
+   "RE": 0,
+   "ND": 0.126,
+   "TA": 60,
+   "unit": "in"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V327236-X",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

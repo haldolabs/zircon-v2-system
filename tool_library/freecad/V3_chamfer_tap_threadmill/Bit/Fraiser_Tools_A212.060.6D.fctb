@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools A212.060.6D",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "100.0000 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "5.0000 mm",
+  "ShankDiameter": "6.0000 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 6,
+   "DMM": 6,
+   "APMX": 5,
+   "OAL": 100,
+   "NOF": 2,
+   "RE": null,
+   "ND": 12,
+   "TA": 30,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Carbider_Poly",
+  "product_link": "https://www.fraisertools.com/it/fresa-per-incisione-su-materiali-plastici-e-leghe-leggere.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Carbider_Poly.json"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "RobbJack AL3-305-08-BN-TC",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "31.7500 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1.25,
+   "OAL": 3,
+   "NOF": 3,
+   "RE": 0.125,
+   "ND": null,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "library": "robbjack-master-catalog (ISO 13399)",
+  "product_link": "https://robbjack.com/tools/AL3-305-08-BN-TC",
+  "source_file": "robbjack/robbjack-master-catalog.json"
+ }
+}

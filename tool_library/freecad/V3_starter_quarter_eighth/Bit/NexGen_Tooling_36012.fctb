@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "NexGen Tooling 36012",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "3.1750 mm",
+  "FlatRadius": "1.3335 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "NOF": 3,
+   "RE": 0.01,
+   "ND": 0.75,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "NexGen Tooling",
+  "library": "autodesk/NexGen_Tooling_NexGen_Tooling",
+  "product_link": "https://www.nexgentooling.com/",
+  "source_file": "autodesk/fusion/NexGen_Tooling_NexGen_Tooling.json"
+ }
+}

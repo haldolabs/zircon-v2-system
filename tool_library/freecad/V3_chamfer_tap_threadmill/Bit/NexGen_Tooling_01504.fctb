@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "NexGen Tooling 01504",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "9.5250 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeAngle": "60.0000 \u00b0",
+  "CuttingEdgeHeight": "6.7091 mm",
+  "ShankDiameter": "9.5250 mm",
+  "TipDiameter": "1.7780 mm"
+ },
+ "attribute": {
+  "Flutes": 5,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.375,
+   "DMM": 0.375,
+   "APMX": 0.2641377481542538,
+   "OAL": 2.5,
+   "NOF": 5,
+   "RE": null,
+   "ND": 0.2641377481542538,
+   "TA": 30,
+   "unit": "in"
+  },
+  "vendor": "NexGen Tooling",
+  "library": "autodesk/NexGen_Tooling_NexGen_Tooling",
+  "product_link": "https://www.nexgentooling.com/",
+  "source_file": "autodesk/fusion/NexGen_Tooling_NexGen_Tooling.json"
+ }
+}

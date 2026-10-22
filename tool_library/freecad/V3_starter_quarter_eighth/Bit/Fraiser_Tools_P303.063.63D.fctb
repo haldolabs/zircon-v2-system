@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "Fraiser Tools P303.063.63D",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 6.35,
+   "DMM": 6.35,
+   "APMX": 25.4,
+   "OAL": 63.5,
+   "NOF": 2,
+   "RE": null,
+   "ND": 30,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Fraiser Tools",
+  "library": "autodesk/Fraiser_Tools_Boss_Beaver",
+  "product_link": "https://www.fraisertools.com/it/alpha-fresa-elicoidale-ricoperta-per-finitura-negativa.html",
+  "source_file": "autodesk/fusion/Fraiser_Tools_Boss_Beaver.json"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "RobbJack AL3-304-08-090",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "0.8890 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 3,
+   "NOF": 3,
+   "RE": 0.09,
+   "ND": null,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "library": "robbjack-master-catalog (ISO 13399)",
+  "product_link": "https://robbjack.com/tools/AL3-304-08-090",
+  "source_file": "robbjack/robbjack-master-catalog.json"
+ }
+}

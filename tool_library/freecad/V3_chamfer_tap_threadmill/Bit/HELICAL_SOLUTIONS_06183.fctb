@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HELICAL SOLUTIONS 06183",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "19.0500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeAngle": "90.0000 \u00b0",
+  "CuttingEdgeHeight": "9.5250 mm",
+  "ShankDiameter": "19.0500 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.75,
+   "DMM": 0.75,
+   "APMX": 0.375,
+   "OAL": 3,
+   "NOF": 4,
+   "RE": 0,
+   "ND": 0.375,
+   "TA": 45,
+   "unit": "in"
+  },
+  "vendor": "HELICAL SOLUTIONS",
+  "library": "autodesk/Helical_Solutions_Specialty_Profiles",
+  "product_link": "https://www.helicaltool.com/products/tool-details-06183",
+  "source_file": "autodesk/fusion/Helical_Solutions_Specialty_Profiles.json"
+ }
+}

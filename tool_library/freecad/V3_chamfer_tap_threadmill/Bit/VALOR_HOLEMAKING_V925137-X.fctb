@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V925137-X",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "8.0000 mm",
+  "Length": "75.0000 mm",
+  "TipAngle": "90.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 8,
+   "DMM": 8,
+   "APMX": 20,
+   "OAL": 75,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 20,
+   "TA": 90,
+   "unit": "mm"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V925137-X",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

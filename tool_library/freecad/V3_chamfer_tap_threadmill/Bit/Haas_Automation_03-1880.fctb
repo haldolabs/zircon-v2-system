@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-1880",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "10.0000 mm",
+  "Length": "70.0000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 10,
+   "DMM": 10,
+   "APMX": 5,
+   "OAL": 70,
+   "NOF": 2,
+   "RE": null,
+   "ND": 5,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Haas Automation",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-1880.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json"
+ }
+}

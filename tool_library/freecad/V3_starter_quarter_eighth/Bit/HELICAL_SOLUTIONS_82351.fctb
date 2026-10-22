@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "HELICAL SOLUTIONS 82351",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "2.4130 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 3,
+   "NOF": 2,
+   "RE": 0.03,
+   "ND": 1,
+   "TA": 0,
+   "unit": "in"
+  },
+  "vendor": "HELICAL SOLUTIONS",
+  "library": "autodesk/Helical_Solutions_End_Mills",
+  "product_link": "https://www.helicaltool.com/products/tool-details-82351",
+  "source_file": "autodesk/fusion/Helical_Solutions_End_Mills.json"
+ }
+}

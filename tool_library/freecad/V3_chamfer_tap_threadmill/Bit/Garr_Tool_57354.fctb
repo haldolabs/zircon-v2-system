@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 57354",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "65.0000 mm",
+  "CuttingEdgeAngle": "82.0000 \u00b0",
+  "CuttingEdgeHeight": "19.0000 mm",
+  "ShankDiameter": "6.0000 mm",
+  "TipDiameter": "0.0100 mm"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 6,
+   "DMM": 6,
+   "APMX": 19,
+   "OAL": 65,
+   "NOF": 4,
+   "RE": null,
+   "ND": 19,
+   "TA": 41,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=57354",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json"
+ }
+}

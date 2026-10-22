@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "ISCAR 3456332",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "2.4130 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "NOF": 3,
+   "RE": 0.03,
+   "ND": 0.75,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "ISCAR",
+  "library": "autodesk/Iscar_Iscar_Solid_End_Mills_Imperial",
+  "product_link": "https://www.Iscar.com/ecat/e.asp?cat=3456332",
+  "source_file": "autodesk/fusion/Iscar_Iscar_Solid_End_Mills_Imperial.json"
+ }
+}

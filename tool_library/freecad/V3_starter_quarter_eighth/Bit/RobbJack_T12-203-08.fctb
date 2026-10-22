@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "RobbJack T12-203-08",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "9.5250 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.375,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "NOF": 2,
+   "RE": null,
+   "ND": null,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "library": "robbjack-master-catalog (ISO 13399)",
+  "product_link": "https://robbjack.com/tools/T12-203-08",
+  "source_file": "robbjack/robbjack-master-catalog.json"
+ }
+}

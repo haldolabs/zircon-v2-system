@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-1214",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "140.0000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 6,
+   "DMM": 6,
+   "APMX": 3,
+   "OAL": 140,
+   "NOF": 2,
+   "RE": null,
+   "ND": 3,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Haas Automation",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-1214.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json"
+ }
+}

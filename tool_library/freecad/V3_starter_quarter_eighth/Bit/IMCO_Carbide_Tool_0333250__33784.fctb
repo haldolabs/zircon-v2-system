@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "IMCO Carbide Tool 0333250; 33784",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "28.5750 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "HSS",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1.125,
+   "OAL": 3.0,
+   "NOF": 3,
+   "RE": 0,
+   "ND": 1.405,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "IMCO Carbide Tool",
+  "library": "autodesk/IMCO_Solid_End_Mills_Imperial",
+  "product_link": "https://www.imcousa.com/parts/0333250",
+  "source_file": "autodesk/fusion/IMCO_Solid_End_Mills_Imperial.json"
+ }
+}

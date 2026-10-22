@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 952815",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "15.8750 mm",
+  "Length": "88.9000 mm",
+  "CuttingEdgeAngle": "30.0000 \u00b0",
+  "CuttingEdgeHeight": "25.8318 mm",
+  "ShankDiameter": "15.8750 mm",
+  "TipDiameter": "2.0320 mm"
+ },
+ "attribute": {
+  "Flutes": 6,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.625,
+   "DMM": 0.625,
+   "APMX": 1.017,
+   "OAL": 3.5,
+   "NOF": 6,
+   "RE": 0,
+   "ND": 1.017,
+   "TA": 15,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-952815",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

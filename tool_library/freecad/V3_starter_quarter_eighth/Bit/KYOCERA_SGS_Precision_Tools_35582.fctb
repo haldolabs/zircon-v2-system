@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "KYOCERA SGS Precision Tools 35582",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "2.7940 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "HSS",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 3,
+   "NOF": 3,
+   "RE": 0.015,
+   "ND": 1,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "KYOCERA SGS Precision Tools",
+  "library": "autodesk/SGS_Kyocera_SGS_Carbide_Tools_Imperial",
+  "product_link": "https://kyocera-sgstool.co.uk/",
+  "source_file": "autodesk/fusion/SGS_Kyocera_SGS_Carbide_Tools_Imperial.json"
+ }
+}

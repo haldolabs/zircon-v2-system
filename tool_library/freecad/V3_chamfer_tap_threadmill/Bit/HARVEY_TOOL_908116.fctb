@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 908116",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "TipAngle": "140.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 10,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.7954962793,
+   "OAL": 2.5,
+   "NOF": 10,
+   "RE": 0,
+   "ND": 0.7954962793,
+   "TA": 140,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-908116",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 13716-C3",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "101.6000 mm",
+  "CuttingEdgeHeight": "38.1000 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1.5,
+   "OAL": 4,
+   "NOF": 3,
+   "RE": 0,
+   "ND": 1.5,
+   "TA": 0,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-13716-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json"
+ }
+}

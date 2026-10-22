@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "KYOCERA SGS Precision Tools 74161",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "12.7000 mm",
+  "Length": "69.8500 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 6,
+  "Material": "HSS",
+  "fusion_type": "counter sink",
+  "iso13399": {
+   "DC": 0.5,
+   "DMM": 0.2501,
+   "APMX": 0.375,
+   "OAL": 2.75,
+   "NOF": 6,
+   "RE": 0,
+   "ND": 1,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "KYOCERA SGS Precision Tools",
+  "library": "autodesk/SGS_Kyocera_SGS_Carbide_Tools_Imperial",
+  "product_link": "https://kyocera-sgstool.co.uk/",
+  "source_file": "autodesk/fusion/SGS_Kyocera_SGS_Carbide_Tools_Imperial.json"
+ }
+}

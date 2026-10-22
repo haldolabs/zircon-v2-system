@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "VALOR HOLEMAKING V827330",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "16.0000 mm",
+  "Length": "100.0000 mm",
+  "TipAngle": "135.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 16,
+   "DMM": 16,
+   "APMX": 40,
+   "OAL": 100,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 40,
+   "TA": 135,
+   "unit": "mm"
+  },
+  "vendor": "VALOR HOLEMAKING",
+  "library": "autodesk/Valor_Holemaking_Valor_Holemaking",
+  "product_link": "http://www.valorholemaking.com/products/tool-details-V827330",
+  "source_file": "autodesk/fusion/Valor_Holemaking_Valor_Holemaking.json"
+ }
+}

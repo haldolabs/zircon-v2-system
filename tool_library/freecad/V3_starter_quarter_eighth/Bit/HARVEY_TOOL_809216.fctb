@@ -1,0 +1,31 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 809216",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 0.75,
+   "TA": 0,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-809216",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json"
+ }
+}

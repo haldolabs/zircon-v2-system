@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant 863.1-0635-026A1-N  H10F",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.3540 mm",
+  "Length": "75.0000 mm",
+  "TipAngle": "118.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.354,
+   "DMM": 6,
+   "APMX": 26,
+   "OAL": 75,
+   "NOF": 2,
+   "RE": null,
+   "ND": 39,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_Hole_Making",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=863.1-0635-026A1-N%20%20H10F&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_Hole_Making.json"
+ }
+}

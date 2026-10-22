@@ -1,0 +1,30 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 991740",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "15.8750 mm",
+  "Length": "88.9000 mm",
+  "TipAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "spot drill",
+  "iso13399": {
+   "DC": 0.625,
+   "DMM": 0.625,
+   "APMX": 1.25,
+   "OAL": 3.5,
+   "NOF": 2,
+   "RE": 0,
+   "ND": 1.25,
+   "TA": 60,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_Specialty_Profiles",
+  "product_link": "http://www.harveytool.com/products/tool-details-991740",
+  "source_file": "autodesk/fusion/Harvey_Tool_Specialty_Profiles.json"
+ }
+}

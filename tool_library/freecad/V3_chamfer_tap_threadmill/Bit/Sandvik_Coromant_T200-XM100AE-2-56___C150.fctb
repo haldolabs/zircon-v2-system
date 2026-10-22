@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant T200-XM100AE-2-56   C150",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "2.1844 mm",
+  "Length": "47.7800 mm",
+  "ShankDiameter": "3.5814 mm",
+  "NeckDiameter": "1.7475 mm",
+  "NeckLength": "35.2800 mm",
+  "Crest": "0.1361 mm",
+  "cuttingAngle": "60.0000 \u00b0"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "tap_pitch_mm": 0.4536,
+  "note": "TAP represented with FreeCAD's thread-mill shape (cylindrical envelope with thread crest); FreeCAD 1.0 has no tap shape. Pitch kept in attribute.tap_pitch_mm",
+  "fusion_type": "tap right hand",
+  "iso13399": {
+   "DC": 2.1844,
+   "DMM": 3.5814,
+   "APMX": 11.5,
+   "OAL": 47.78,
+   "NOF": 2,
+   "RE": null,
+   "ND": 25.2375,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_Hole_Making",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=T200-XM100AE-2-56%20%20%20C150&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_Hole_Making.json"
+ }
+}

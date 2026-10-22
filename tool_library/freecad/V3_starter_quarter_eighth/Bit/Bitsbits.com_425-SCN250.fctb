@@ -1,0 +1,32 @@
+{
+ "version": 2,
+ "name": "Bitsbits.com 425-SCN250",
+ "shape": "bullnose.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "25.4000 mm",
+  "ShankDiameter": "6.3500 mm",
+  "FlatRadius": "1.5875 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "fusion_type": "bull nose end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 1,
+   "OAL": 2.5,
+   "NOF": 2,
+   "RE": 0.0625,
+   "ND": 1.001,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Bitsbits.com",
+  "library": "autodesk/BitsBits_BitsBits_Cutting_Tools",
+  "product_link": "https://bitsbits.com/product/425-scn250-cove/",
+  "source_file": "autodesk/fusion/BitsBits_BitsBits_Cutting_Tools.json"
+ }
+}
