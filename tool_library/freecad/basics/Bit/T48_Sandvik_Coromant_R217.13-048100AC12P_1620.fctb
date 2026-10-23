@@ -1,0 +1,37 @@
+{
+ "version": 2,
+ "name": "Sandvik Coromant R217.13-048100AC12P 1620",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "4.8000 mm",
+  "Length": "57.0000 mm",
+  "ShankDiameter": "6.0000 mm",
+  "NeckDiameter": "3.8400 mm",
+  "NeckLength": "53.5000 mm",
+  "Crest": "0.3000 mm",
+  "cuttingAngle": "60.0000 °"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "fusion_type": "thread mill",
+  "iso13399": {
+   "DC": 4.8,
+   "DMM": 6,
+   "APMX": 2.5,
+   "OAL": 57,
+   "NOF": 3,
+   "RE": null,
+   "ND": 21,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Sandvik Coromant",
+  "library": "autodesk/Sandvik_Coromant_Solid_End_Mills",
+  "product_link": "https://www.sandvik.coromant.com/en-gb/products/pages/productdetails.aspx?c=R217.13-048100AC12P%201620&utm_medium=referral&utm_source=fusion360&utm_campaign=fusion360",
+  "source_file": "autodesk/fusion/Sandvik_Coromant_Solid_End_Mills.json",
+  "v3_fix": "NeckDiameter set to min(shank, 0.8*D); V2 export had neck = shank, which FreeCAD rejects silently",
+  "v3_role": "single-profile thread mill, metric, 1.00 pitch max, Ø4.8 (M6)",
+  "v3_tool_nr": 48
+ }
+}

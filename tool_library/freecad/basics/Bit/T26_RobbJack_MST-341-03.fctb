@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack MST-341-03",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "3.0000 mm",
+  "Length": "37.9999 mm",
+  "CuttingEdgeHeight": "6.0000 mm",
+  "ShankDiameter": "3.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "3 mm square",
+  "reach_mm": 6.0,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 3.0,
+   "DMM": 3.0,
+   "APMX": 6.0,
+   "OAL": 37.9999,
+   "LB": 6.0,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "MST-341-03",
+  "description": "MST-341-03 · 3mm Dia 3-Flute Metric End Mill 6mm LOC, 3mm Shank, 38mm OAL",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/MST-341-03",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 26
+ }
+}

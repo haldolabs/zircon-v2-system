@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 00446",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "2.2606 mm",
+  "Length": "50.8000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill 4-40 (#43, 0.089 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 2.2606,
+   "DMM": 3.175,
+   "APMX": 15.875,
+   "OAL": 50.8,
+   "LB": 50.8,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "tool_id": "00446",
+  "description": "#43 (.0890 in) 5xD H/P 2FL DR *AlTiN-based*",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=00446",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json",
+  "v3_tool_nr": 79
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack MFM-303-06",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "75.0001 mm",
+  "CuttingEdgeHeight": "7.0000 mm",
+  "ShankDiameter": "6.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "6 mm square, 4D reach",
+  "reach_mm": 24.0,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 6.0,
+   "DMM": 6.0,
+   "APMX": 7.0,
+   "OAL": 75.0001,
+   "LB": 24.0,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "MFM-303-06",
+  "description": "MFM-303-06 · 6mm Dia 3-Flute Metric End Mill 7mm LOC, 6mm Shank, 75mm OAL, 24mm Reach",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/MFM-303-06",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 30
+ }
+}

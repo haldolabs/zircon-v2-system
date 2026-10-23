@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Guhring 9007680034000",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.4000 mm",
+  "Length": "66.0000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "clearance M3 screw, medium fit (3.4 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 3.4,
+   "DMM": 6.0,
+   "APMX": 24.0,
+   "OAL": 66.0,
+   "LB": 66.0,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Guhring",
+  "tool_id": "9007680034000",
+  "description": "Drill, 3.4mm 4xD, RT 150 GG, Carbide, Uncoated, Coolant through",
+  "library": "autodesk/Guhring_Solid_Hole_Making",
+  "product_link": "https://www.guhring.com/ProductsServices/SizeDetails?EDP=9007680034000",
+  "source_file": "autodesk/fusion/Guhring_Solid_Hole_Making.json",
+  "v3_tool_nr": 87
+ }
+}

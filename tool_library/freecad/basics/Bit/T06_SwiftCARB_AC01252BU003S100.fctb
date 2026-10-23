@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "SwiftCARB AC01252BU003S100",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "3.1750 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "1/8 in square, 7D reach",
+  "reach_mm": 21.59,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "LB": 0.85,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "SwiftCARB",
+  "tool_id": "AC01252BU003S100",
+  "description": "0.125 X 0.75 FLAT END MILL",
+  "library": "autodesk/SwiftCARB_End_Mills",
+  "product_link": "",
+  "source_file": "autodesk/fusion/SwiftCARB_End_Mills.json",
+  "v3_tool_nr": 6
+ }
+}

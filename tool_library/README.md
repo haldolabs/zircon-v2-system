@@ -9,7 +9,9 @@ raw/           the vendor files as downloaded, xz-compressed (19 MB; 590 MB unpa
 collection.py  merge every raw file → collection.csv/.json (148,412 rows), summary.md, FreeCAD libraries, holders.json
 catalog.py     query the RobbJack ISO 13399 catalog on its own; export single FreeCAD .fctb bits
 holders_export.py  holders.json → revolved STEP solids (freecadcmd)
-freecad/       V3_starter_quarter_eighth (1,807 bits) and V3_chamfer_tap_threadmill (7,371 bits): Bit/ + Library/*.fctl
+freecad/       **basics (114 bits — the pared-down, verified, self-contained library; start here)**,
+               V3_starter_quarter_eighth (1,807 bits) and V3_chamfer_tap_threadmill (7,371 bits): Bit/ + Library/*.fctl
+basics_select.py / basics_verify.py   build freecad/basics from the collection; load-verify any library in freecadcmd
 collection.csv.xz, holders.json.xz   prebuilt outputs
 fetch.sh / unpack.sh                 re-download from the original URLs / decompress the committed copies
 ```
@@ -48,8 +50,19 @@ the manager at a folder that has it) and open the `.fctl`:
 
 | Library | Bits | Content | Verified |
 |---|---|---|---|
+| **`freecad/basics`** | **114** | **the pared-down shop standard** (added 2026-10-23): square and ball end mills 1/16–1/2 in and 2–12 mm with stub / 4D / 7D reach variants, 90° chamfer mills, Sandvik single-profile thread mills (56–20 tpi, 0.35–1.0 mm pitch), spiral-flute taps 1-72 … 1/2-20 and M1.6 … M12 (the 1-72 is generic ANSI-nominal, flagged `estimated`), the tap drill for every tap and the normal-fit clearance drill for every screw size (ASME B18.2.8 / ISO 273), deduplicated by diameter, plus four drill sizes a reference part needed (Ø0.063/0.070/0.185/0.190 in, the deep ones with ≥ 51 mm flute). Ships its own `Shape/`, a `README.md` table, `tools.csv` and a ray-traced `sheet.png` of every solid. Rebuild with `python3 basics_select.py --name basics` (reads `collection.csv.xz` directly) | all 114 load in `freecadcmd`, each a valid solid that is **not** the stock shape, with bbox = max(D, shank) × length (`basics_verify.py`) |
 | `freecad/V3_starter_quarter_eighth` | 1,807 | every 1/4 in and 1/8 in flat / ball / bull-nose end mill and drill with ≥ 19 mm (1/4) or ≥ 16 mm (1/8) flute length | every bit loads in `freecadcmd` via `Path.Tool.Bit.Factory.CreateFrom` and builds a valid solid |
 | `freecad/V3_chamfer_tap_threadmill` | 7,371 | all chamfer mills (2,202), taps (2,676), thread mills (176), dovetail mills (625), spot / centre drills and countersinks (1,695) | all 7,371 load, 0 failures (501 s) |
+
+⚠ **Two geometry bugs in the two large exports, found 2026-10-23 while building `basics` (fixed there, NOT yet in
+`V3_chamfer_tap_threadmill`, whose bits still carry them):** (1) **thread mills** were written with `NeckDiameter` =
+shank; FreeCAD's `thread-mill.fcstd` sketch cannot solve a neck wider than the cutting diameter and *silently keeps the
+stock Ø5 × 50 mm shape* — `isValid()` passes, the geometry is wrong (all 176 Sandvik thread mills). Correct: neck
+< cutting Ø (`basics` uses min(shank, 0.8 D); the shank may stay wider). (2) **chamfer mills** had the vendor flute
+length written into `CuttingEdgeHeight`, which in `chamfer.fcstd` is the *cone* height, so a 1/4 in 90° chamfer came out
+44 mm wide (all 2,202 chamfer bits). Correct: cone height = (D − tip) / (2 tan(angle/2)). The lesson for any exporter:
+**verify against the stock shape's volume and the expected bounding box, not just `isValid()`** — `basics_verify.py`
+does. Taps were unaffected (their neck was already 0.8 D).
 
 Shape mapping: endmill / ballend / bullnose (`FlatRadius` = DC/2 − RE) / drill (`TipAngle` from the record, else 118°) /
 chamfer (`CuttingEdgeAngle` = 2 × Fusion's per-side TA, `TipDiameter`) / thread-mill / dovetail. **Taps use FreeCAD's

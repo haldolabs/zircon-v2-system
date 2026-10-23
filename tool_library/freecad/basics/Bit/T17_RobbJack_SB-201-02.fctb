@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack SB-201-02",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "1.5875 mm",
+  "Length": "38.1000 mm",
+  "CuttingEdgeHeight": "3.1750 mm",
+  "ShankDiameter": "3.1750 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "1/16 in ball",
+  "reach_mm": 3.175,
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.0625,
+   "DMM": 0.125,
+   "APMX": 0.125,
+   "OAL": 1.5,
+   "LB": 0.125,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "SB-201-02",
+  "description": "SB-201-02 · 0.0625-in Dia 2-Flute End Mill, 0.125-in LOC, 0.125-in Shank, 1.5-in OAL, 0.03125-in CR",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/SB-201-02",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 17
+ }
+}

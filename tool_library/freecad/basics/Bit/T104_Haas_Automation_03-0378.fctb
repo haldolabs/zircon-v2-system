@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-0378",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "7.9375 mm",
+  "Length": "91.0082 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill 3/8-16 (5/16, 0.3125 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.3125,
+   "DMM": 0.315,
+   "APMX": 2.087,
+   "OAL": 3.583,
+   "LB": 2.187,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Haas Automation",
+  "tool_id": "03-0378",
+  "description": "5/16\" Ø Carbide Drill, 8mm Shank x 118° Point Angle x 30° Helix, 5XD, 2 Flute, DLC Coated, AL, TSC",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-0378.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json",
+  "v3_tool_nr": 104
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL BVT1495-C3",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.7970 mm",
+  "Length": "75.0000 mm",
+  "TipAngle": "140.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill 10-24 (#25, 0.1495 in) = clearance #6 screw, normal fit (#25, 0.1495 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 3.797,
+   "DMM": 6.0,
+   "APMX": 26.6909974898,
+   "OAL": 75.0,
+   "LB": 33.59885,
+   "NOF": 2.0,
+   "TA": 140.0,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "BVT1495-C3",
+  "description": "HARVEY - BVT1495-C3 - HP DRILL FOR PREHARDENED STEELS - 3.797 MM DIA X 26.000 MM FLUTE LENGTH , 2 FLUTES, ALTIN COATED",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-BVT1495-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json",
+  "v3_tool_nr": 89
+ }
+}

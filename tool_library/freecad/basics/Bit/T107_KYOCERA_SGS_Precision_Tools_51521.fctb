@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "KYOCERA SGS Precision Tools 51521",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "8.7325 mm",
+  "Length": "101.6000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "clearance 5/16 screw, normal fit (11/32, 0.3438 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.3438,
+   "DMM": 0.375,
+   "APMX": 2.4062,
+   "OAL": 4.0,
+   "LB": 4.0,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "KYOCERA SGS Precision Tools",
+  "tool_id": "51521",
+  "description": "11/32 DRILL 2FL 5XD TA HIPERCARB 11/32x2-3/8x4",
+  "library": "autodesk/SGS_Kyocera_SGS_Carbide_Tools_Imperial",
+  "product_link": "https://kyocera-sgstool.co.uk/",
+  "source_file": "autodesk/fusion/SGS_Kyocera_SGS_Carbide_Tools_Imperial.json",
+  "v3_tool_nr": 107
+ }
+}

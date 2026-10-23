@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 957720",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "7.9375 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "11.9126 mm",
+  "ShankDiameter": "7.9375 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "5/16 in square",
+  "reach_mm": 15.881,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.3125,
+   "DMM": 0.3125,
+   "APMX": 0.469,
+   "OAL": 2.5,
+   "LB": 0.62525,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "957720",
+  "description": "HARVEY - 957720 - SQUARE UPCUT END MILL FOR PLASTIC - 0.3125 (5/16) DIA X 0.4690 LOC , 2 FLUTES",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-957720",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json",
+  "v3_tool_nr": 12
+ }
+}

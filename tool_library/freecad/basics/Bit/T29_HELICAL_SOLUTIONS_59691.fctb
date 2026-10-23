@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HELICAL SOLUTIONS 59691",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "63.0000 mm",
+  "CuttingEdgeHeight": "9.0000 mm",
+  "ShankDiameter": "6.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "6 mm square",
+  "reach_mm": 12.0,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 6.0,
+   "DMM": 6.0,
+   "APMX": 9.0,
+   "OAL": 63.0,
+   "LB": 12.0,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "HELICAL SOLUTIONS",
+  "tool_id": "59691",
+  "description": "HELICAL - 59691 - 35 DEG HELIX SQUARE END MILL FOR ALUMINUM - 6.000 MM DIA X 6.000 MM SHANK DIA X 9.000 MM LOC X 63.000 MM OAL , 3 FLUTES, ZPLUS COATED",
+  "library": "autodesk/Helical_Solutions_End_Mills",
+  "product_link": "https://www.helicaltool.com/products/tool-details-59691",
+  "source_file": "autodesk/fusion/Helical_Solutions_End_Mills.json",
+  "v3_tool_nr": 29
+ }
+}

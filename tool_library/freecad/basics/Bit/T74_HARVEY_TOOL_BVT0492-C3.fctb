@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL BVT0492-C3",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "1.2500 mm",
+  "Length": "50.0000 mm",
+  "TipAngle": "140.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill M1.6 (1.25 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 1.25,
+   "DMM": 3.0,
+   "APMX": 8.7274813964,
+   "OAL": 50.0,
+   "LB": 12.34302,
+   "NOF": 2.0,
+   "TA": 140.0,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "BVT0492-C3",
+  "description": "HARVEY - BVT0492-C3 - HP DRILL FOR PREHARDENED STEELS - 1.250 MM DIA X 8.500 MM FLUTE LENGTH , 2 FLUTES, ALTIN COATED",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-BVT0492-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json",
+  "v3_tool_nr": 74
+ }
+}

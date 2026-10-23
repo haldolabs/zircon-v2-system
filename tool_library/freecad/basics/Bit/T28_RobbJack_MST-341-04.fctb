@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack MST-341-04",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "4.0000 mm",
+  "Length": "49.9999 mm",
+  "CuttingEdgeHeight": "8.0000 mm",
+  "ShankDiameter": "4.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "4 mm square",
+  "reach_mm": 8.0,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 4.0,
+   "DMM": 4.0,
+   "APMX": 8.0,
+   "OAL": 49.9999,
+   "LB": 8.0,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "MST-341-04",
+  "description": "MST-341-04 · 4mm Dia 3-Flute Metric End Mill 8mm LOC, 4mm Shank, 50mm OAL",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/MST-341-04",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 28
+ }
+}

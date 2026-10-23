@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 19225",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.2639 mm",
+  "Length": "49.2125 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "clearance #4 screw, normal fit (#30, 0.1285 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 3.2639,
+   "DMM": 3.2639,
+   "APMX": 23.8125,
+   "OAL": 49.2125,
+   "LB": 49.2125,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "tool_id": "19225",
+  "description": "#30(.1285) 3xD DR 2FL 15 DEG 15/16 in F/L 135 PT",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=19225",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json",
+  "v3_tool_nr": 85
+ }
+}

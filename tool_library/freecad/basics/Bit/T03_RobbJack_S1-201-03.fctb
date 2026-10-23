@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack S1-201-03",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "2.3800 mm",
+  "Length": "38.1000 mm",
+  "CuttingEdgeHeight": "4.7625 mm",
+  "ShankDiameter": "3.1750 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "3/32 in square",
+  "reach_mm": 4.762,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.0937,
+   "DMM": 0.125,
+   "APMX": 0.1875,
+   "OAL": 1.5,
+   "LB": 0.1875,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "S1-201-03",
+  "description": "S1-201-03 · 0.0937-in Dia 2-Flute End Mill, 0.1875-in LOC, 0.125-in Shank, 1.5-in OAL",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/S1-201-03",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 3
+ }
+}

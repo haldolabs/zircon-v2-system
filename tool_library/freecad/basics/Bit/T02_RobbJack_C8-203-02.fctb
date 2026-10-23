@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack C8-203-02",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "1.5875 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "6.3500 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "1/16 in square, 4D reach",
+  "reach_mm": 6.35,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.0625,
+   "DMM": 0.25,
+   "APMX": 0.25,
+   "OAL": 2.5,
+   "LB": 0.25,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "C8-203-02",
+  "description": "C8-203-02 · 0.0625-in Dia 2-Flute End Mill, 0.25-in LOC, 0.25-in Shank, 2.5-in OAL",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/C8-203-02",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 2
+ }
+}

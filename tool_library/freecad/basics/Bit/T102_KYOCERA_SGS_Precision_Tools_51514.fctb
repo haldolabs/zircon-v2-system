@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "KYOCERA SGS Precision Tools 51514",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.9088 mm",
+  "Length": "92.0750 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "tap drill 5/16-24 (I, 0.272 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.272,
+   "DMM": 0.3125,
+   "APMX": 2.0781,
+   "OAL": 3.625,
+   "LB": 3.625,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "KYOCERA SGS Precision Tools",
+  "tool_id": "51514",
+  "description": "I DRILL 2FL 5XD TA HIPERCARB Ix2-5/64x3-5/8",
+  "library": "autodesk/SGS_Kyocera_SGS_Carbide_Tools_Imperial",
+  "product_link": "https://kyocera-sgstool.co.uk/",
+  "source_file": "autodesk/fusion/SGS_Kyocera_SGS_Carbide_Tools_Imperial.json",
+  "v3_tool_nr": 102
+ }
+}

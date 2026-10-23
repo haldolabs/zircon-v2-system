@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Guhring 9012430066000",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.6000 mm",
+  "Length": "83.0000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "clearance M6 screw, medium fit (6.6 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.6,
+   "DMM": 6.6,
+   "APMX": 43.0,
+   "OAL": 83.0,
+   "LB": 83.0,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Guhring",
+  "tool_id": "9012430066000",
+  "description": "Drill, 6.6mm 5xD, RT 100 U, Carbide, TiN",
+  "library": "autodesk/Guhring_Solid_Hole_Making",
+  "product_link": "https://www.guhring.com/ProductsServices/SizeDetails?EDP=9012430066000",
+  "source_file": "autodesk/fusion/Guhring_Solid_Hole_Making.json",
+  "v3_tool_nr": 100
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 50916-C3",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "9.5250 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "1/4 in ball",
+  "reach_mm": 12.7,
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.375,
+   "OAL": 2.5,
+   "LB": 0.5,
+   "NOF": 2.0,
+   "RE": 0.125,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "50916-C3",
+  "description": "HARVEY - 50916-C3 - BALL END MILL - 0.2500 (1/4) DIA X 0.3750 (3/8) LOC , 2 FLUTES, ALTIN COATED",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-50916-C3",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json",
+  "v3_tool_nr": 21
+ }
+}

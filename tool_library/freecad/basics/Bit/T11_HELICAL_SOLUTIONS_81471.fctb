@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HELICAL SOLUTIONS 81471",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "9.5250 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "1/4 in square, 7D reach",
+  "reach_mm": 44.615,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.375,
+   "OAL": 3.0,
+   "LB": 1.7565,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "HELICAL SOLUTIONS",
+  "tool_id": "81471",
+  "description": "HELICAL - 81471 - 40 DEG HELIX SQUARE END MILL FOR ALUMINUM - 0.2500 (1/4) DIA X 0.2500 (1/4) SHANK DIA X 0.3750 (3/8) LOC X 3.0000 (3) OAL X 1.6250 (1-5/8) REACH , 3 FLUTES, UNCOATED",
+  "library": "autodesk/Helical_Solutions_End_Mills",
+  "product_link": "https://www.helicaltool.com/products/tool-details-81471",
+  "source_file": "autodesk/fusion/Helical_Solutions_End_Mills.json",
+  "v3_tool_nr": 11
+ }
+}

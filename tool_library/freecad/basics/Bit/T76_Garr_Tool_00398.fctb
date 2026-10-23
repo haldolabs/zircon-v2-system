@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 00398",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "1.6000 mm",
+  "Length": "50.0000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill M2 (1.6 mm) = drawing Ø0.063 note K, 1.43 in deep",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 1.6,
+   "DMM": 3.0,
+   "APMX": 11.0,
+   "OAL": 50.0,
+   "LB": 50.0,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "tool_id": "00398",
+  "description": "1.60mm (.0630 in) 5xD H/P 2FL DR *AlTiN-based*",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=00398",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json",
+  "v3_tool_nr": 76
+ }
+}

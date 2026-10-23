@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 962424",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "9.5250 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "14.3002 mm",
+  "ShankDiameter": "9.5250 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "3/8 in ball",
+  "reach_mm": 19.063,
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.375,
+   "DMM": 0.375,
+   "APMX": 0.563,
+   "OAL": 3.0,
+   "LB": 0.7505,
+   "NOF": 2.0,
+   "RE": 0.1875,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "962424",
+  "description": "HARVEY - 962424 - BALL END MILL FOR PLASTIC - 0.3750 (3/8) DIA X 0.5630 LOC , 2 FLUTES",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-962424",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json",
+  "v3_tool_nr": 23
+ }
+}

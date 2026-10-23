@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-0296",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "4.6990 mm",
+  "Length": "88.9000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "drawing Ø0.185 note M, 8-32 loose, 2.0 in deep",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.185,
+   "DMM": 0.185,
+   "APMX": 2.313,
+   "OAL": 3.5,
+   "LB": 2.413,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Haas Automation",
+  "tool_id": "03-0296",
+  "description": "#13 Ø Cobalt Jobber Drill, 135° Point Angle x 30° Helix, 2 Flute, TiN Coated - Pack of 10",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-0296.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json",
+  "v3_tool_nr": 93
+ }
+}

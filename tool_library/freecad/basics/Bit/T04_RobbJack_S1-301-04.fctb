@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack S1-301-04",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "3.1750 mm",
+  "Length": "38.1000 mm",
+  "CuttingEdgeHeight": "6.3500 mm",
+  "ShankDiameter": "3.1750 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "1/8 in square",
+  "reach_mm": 6.35,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.125,
+   "DMM": 0.125,
+   "APMX": 0.25,
+   "OAL": 1.5,
+   "LB": 0.25,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "S1-301-04",
+  "description": "S1-301-04 · 0.125-in Dia 3-Flute End Mill, 0.25-in LOC, 0.125-in Shank, 1.5-in OAL",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/S1-301-04",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 4
+ }
+}

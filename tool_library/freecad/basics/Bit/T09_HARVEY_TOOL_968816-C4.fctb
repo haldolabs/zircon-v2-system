@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 968816-C4",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "9.5250 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "1/4 in square",
+  "reach_mm": 12.7,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.375,
+   "OAL": 2.5,
+   "LB": 0.5,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "968816-C4",
+  "description": "HARVEY - 968816-C4 - SQUARE END MILL FOR ALUMINUM ALLOYS - 0.2500 (1/4) DIA X 0.3750 (3/8) LOC , 3 FLUTES, AMORPHOUS DIAMOND COATED",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-968816-C4",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json",
+  "v3_tool_nr": 9
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 804832",
+ "shape": "chamfer.fcstd",
+ "parameter": {
+  "Diameter": "12.7000 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeAngle": "90.0000 °",
+  "CuttingEdgeHeight": "0.2540 mm",
+  "ShankDiameter": "12.7000 mm",
+  "TipDiameter": "12.1920 mm"
+ },
+ "attribute": {
+  "Flutes": 4,
+  "Material": "Carbide",
+  "fusion_type": "chamfer mill",
+  "iso13399": {
+   "DC": 0.5,
+   "DMM": 0.5,
+   "APMX": 1.5,
+   "OAL": 3,
+   "NOF": 4,
+   "RE": 0,
+   "ND": 1.5,
+   "TA": 45,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-804832",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json",
+  "v3_fix": "CuttingEdgeHeight = cone height from D, tip and angle; V2 export used the flute length, which flares the cone to several times D",
+  "v3_role": "1/2 in 90° chamfer",
+  "v3_tool_nr": 39
+ }
+}

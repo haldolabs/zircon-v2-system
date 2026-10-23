@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL BAF0960-C8",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "2.4380 mm",
+  "Length": "63.0000 mm",
+  "TipAngle": "130.0000 °"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "clearance #2 screw, normal fit (#41, 0.096 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 2.438,
+   "DMM": 4.0,
+   "APMX": 16.5684290353,
+   "OAL": 63.0,
+   "LB": 20.92116,
+   "NOF": 3.0,
+   "TA": 130.0,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "BAF0960-C8",
+  "description": "HARVEY - BAF0960-C8 - HP DRILL FOR ALUMINUM ALLOYS - 2.438 MM DIA X 16.000 MM FLUTE LENGTH , 3 FLUTES, TIB2 COATED",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-BAF0960-C8",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json",
+  "v3_tool_nr": 81
+ }
+}

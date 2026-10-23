@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack DM-202-06",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "4.7625 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "4.7625 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "3/16 in ball",
+  "reach_mm": 9.525,
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.1875,
+   "DMM": 0.25,
+   "APMX": 0.1875,
+   "OAL": 3.0,
+   "LB": 0.375,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "DM-202-06",
+  "description": "DM-202-06 · 0.1875-in Dia 2-Flute End Mill, 0.1875-in LOC, 0.25-in Shank, 3-in OAL, 0.09375-in CR, 0.375-in Reach",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/DM-202-06",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 20
+ }
+}

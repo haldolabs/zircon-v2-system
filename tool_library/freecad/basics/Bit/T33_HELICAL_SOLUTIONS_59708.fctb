@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HELICAL SOLUTIONS 59708",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "12.0000 mm",
+  "Length": "75.0000 mm",
+  "CuttingEdgeHeight": "18.0000 mm",
+  "ShankDiameter": "12.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "12 mm square",
+  "reach_mm": 24.0,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 12.0,
+   "DMM": 12.0,
+   "APMX": 18.0,
+   "OAL": 75.0,
+   "LB": 24.0,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "HELICAL SOLUTIONS",
+  "tool_id": "59708",
+  "description": "HELICAL - 59708 - 35 DEG HELIX SQUARE END MILL FOR ALUMINUM - 12.000 MM DIA X 12.000 MM SHANK DIA X 18.000 MM LOC X 75.000 MM OAL , 3 FLUTES, UNCOATED",
+  "library": "autodesk/Helical_Solutions_End_Mills",
+  "product_link": "https://www.helicaltool.com/products/tool-details-59708",
+  "source_file": "autodesk/fusion/Helical_Solutions_End_Mills.json",
+  "v3_tool_nr": 33
+ }
+}

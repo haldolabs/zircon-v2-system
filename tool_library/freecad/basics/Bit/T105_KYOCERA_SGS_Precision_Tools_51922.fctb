@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "KYOCERA SGS Precision Tools 51922",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "8.4328 mm",
+  "Length": "102.9970 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "tap drill 3/8-24 (Q, 0.332 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.332,
+   "DMM": 0.3937,
+   "APMX": 2.402,
+   "OAL": 4.055,
+   "LB": 4.055,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "KYOCERA SGS Precision Tools",
+  "tool_id": "51922",
+  "description": "Q DRILL 2FL 5XD TA IC ICE-CARB Qx61x103",
+  "library": "autodesk/SGS_Kyocera_SGS_Carbide_Tools_Imperial",
+  "product_link": "https://kyocera-sgstool.co.uk/",
+  "source_file": "autodesk/fusion/SGS_Kyocera_SGS_Carbide_Tools_Imperial.json",
+  "v3_tool_nr": 105
+ }
+}

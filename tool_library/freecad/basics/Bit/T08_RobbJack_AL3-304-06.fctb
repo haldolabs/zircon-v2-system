@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack AL3-304-06",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "4.7625 mm",
+  "Length": "50.8000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "4.7625 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "3/16 in square, 4D reach",
+  "reach_mm": 19.05,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.1875,
+   "DMM": 0.1875,
+   "APMX": 0.75,
+   "OAL": 2.0,
+   "LB": 0.75,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "AL3-304-06",
+  "description": "AL3-304-06 · 0.1875-in Dia 3-Flute End Mill, 0.75-in LOC, 0.1875-in Shank, 2-in OAL, with Chip Breakers",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/AL3-304-06",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 8
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL BAF2129-C8",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "5.4100 mm",
+  "Length": "75.0000 mm",
+  "TipAngle": "130.0000 °"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "tap drill 1/4-28 (#3, 0.213 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 5.41,
+   "DMM": 6.0,
+   "APMX": 37.2613622153,
+   "OAL": 75.0,
+   "LB": 43.77231,
+   "NOF": 3.0,
+   "TA": 130.0,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "BAF2129-C8",
+  "description": "HARVEY - BAF2129-C8 - HP DRILL FOR ALUMINUM ALLOYS - 5.410 MM DIA X 36.000 MM FLUTE LENGTH , 3 FLUTES, TIB2 COATED",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-BAF2129-C8",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json",
+  "v3_tool_nr": 97
+ }
+}

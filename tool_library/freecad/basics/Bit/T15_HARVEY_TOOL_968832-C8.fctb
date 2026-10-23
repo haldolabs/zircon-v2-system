@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL 968832-C8",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "12.7000 mm",
+  "Length": "76.2000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "12.7000 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "1/2 in square",
+  "reach_mm": 25.4,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.5,
+   "DMM": 0.5,
+   "APMX": 0.75,
+   "OAL": 3.0,
+   "LB": 1.0,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "968832-C8",
+  "description": "HARVEY - 968832-C8 - SQUARE END MILL FOR ALUMINUM ALLOYS - 0.5000 (1/2) DIA X 0.7500 (3/4) LOC , 3 FLUTES, TIB2 COATED",
+  "library": "autodesk/Harvey_Tool_End_Mills",
+  "product_link": "http://www.harveytool.com/products/tool-details-968832-C8",
+  "source_file": "autodesk/fusion/Harvey_Tool_End_Mills.json",
+  "v3_tool_nr": 15
+ }
+}

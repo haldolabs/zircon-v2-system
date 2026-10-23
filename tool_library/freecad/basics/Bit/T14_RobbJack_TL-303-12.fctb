@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack TL-303-12",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "9.5250 mm",
+  "Length": "88.9000 mm",
+  "CuttingEdgeHeight": "38.1000 mm",
+  "ShankDiameter": "9.5250 mm"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "3/8 in square, 4D reach",
+  "reach_mm": 38.1,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 0.375,
+   "DMM": 0.375,
+   "APMX": 1.5,
+   "OAL": 3.5,
+   "LB": 1.5,
+   "NOF": 3.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "TL-303-12",
+  "description": "TL-303-12 · 0.375-in Dia 3-Flute End Mill, 1.5-in LOC, 0.375-in Shank, 3.5-in OAL with Weldon Flats",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/TL-303-12",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 14
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 59410",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "4.4958 mm",
+  "Length": "63.5000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "clearance #8 screw, normal fit (#16, 0.177 in) = clearance M4 screw, medium fit (4.5 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 4.4958,
+   "DMM": 4.4958,
+   "APMX": 30.1625,
+   "OAL": 63.5,
+   "LB": 63.5,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "tool_id": "59410",
+  "description": "#16 (.1770) 3xD 2 ST/FL 1-3/16 in F/L 135 DEG PT",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=59410",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json",
+  "v3_tool_nr": 92
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "Haas Automation 03-0590",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "6.3500 mm",
+  "Length": "63.5000 mm",
+  "CuttingEdgeHeight": "19.0500 mm",
+  "ShankDiameter": "6.3500 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "1/4 in ball, 4D reach",
+  "reach_mm": 26.67,
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 0.25,
+   "DMM": 0.25,
+   "APMX": 0.75,
+   "OAL": 2.5,
+   "LB": 1.05,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "in"
+  },
+  "vendor": "Haas Automation",
+  "tool_id": "03-0590",
+  "description": "1/4\" Dia. Carbide Ball End Mill, 2 Flute, Uncoated, 1/4\" Smooth Shank x 3/4\" LOC, HSAM1",
+  "library": "autodesk/Haas_Tooling_Haas_Tooling",
+  "product_link": "https://www.haastooling.com/p/03-0590.html",
+  "source_file": "autodesk/fusion/Haas_Tooling_Haas_Tooling.json",
+  "v3_tool_nr": 22
+ }
+}

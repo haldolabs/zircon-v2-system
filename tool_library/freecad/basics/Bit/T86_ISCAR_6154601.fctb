@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "ISCAR 6154601",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "3.3000 mm",
+  "Length": "66.0000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill M4 (3.3 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 3.3,
+   "DMM": 6.0,
+   "APMX": 23.0,
+   "OAL": 66.0,
+   "LB": 59.2,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "ISCAR",
+  "tool_id": "6154601",
+  "description": "SCD 033-023-060 ACP5N IC908",
+  "library": "autodesk/Iscar_Iscar_Hole_Making_Metric",
+  "product_link": "https://www.Iscar.com/ecat/e.asp?cat=6154601",
+  "source_file": "autodesk/fusion/Iscar_Iscar_Hole_Making_Metric.json",
+  "v3_tool_nr": 86
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack MFM-201-06-BN",
+ "shape": "ballend.fcstd",
+ "parameter": {
+  "Diameter": "6.0000 mm",
+  "Length": "75.0001 mm",
+  "CuttingEdgeHeight": "7.0000 mm",
+  "ShankDiameter": "6.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "6 mm ball",
+  "reach_mm": 12.0,
+  "fusion_type": "ball end mill",
+  "iso13399": {
+   "DC": 6.0,
+   "DMM": 6.0,
+   "APMX": 7.0,
+   "OAL": 75.0001,
+   "LB": 12.0,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "MFM-201-06-BN",
+  "description": "MFM-201-06-BN · 6mm Dia 2-Flute Metric End Mill 7mm LOC, 6mm Shank, 75mm OAL, 3mm CR, 12mm Reach",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/MFM-201-06-BN",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 36
+ }
+}

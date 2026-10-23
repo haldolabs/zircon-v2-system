@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Guhring 9006090068000",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "6.8000 mm",
+  "Length": "74.0000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "HSS",
+  "v3_role": "tap drill M8 (6.8 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 6.8,
+   "DMM": 6.8,
+   "APMX": 45.0,
+   "OAL": 74.0,
+   "LB": 74.0,
+   "NOF": 3.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Guhring",
+  "tool_id": "9006090068000",
+  "description": "Drill, 6.8mm 5xD 3Flt, GS 200 U, Carbide, TiN",
+  "library": "autodesk/Guhring_Solid_Hole_Making",
+  "product_link": "https://www.guhring.com/ProductsServices/SizeDetails?EDP=9006090068000",
+  "source_file": "autodesk/fusion/Guhring_Solid_Hole_Making.json",
+  "v3_tool_nr": 101
+ }
+}

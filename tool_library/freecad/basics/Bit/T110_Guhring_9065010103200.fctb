@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Guhring 9065010103200",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "10.3200 mm",
+  "Length": "118.0000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "v3_role": "clearance 3/8 screw, normal fit (13/32, 0.4063 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 0.4063000000000001,
+   "DMM": 0.47244099999999994,
+   "APMX": 2.79528,
+   "OAL": 4.64567,
+   "LB": 4.64567,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "in"
+  },
+  "vendor": "Guhring",
+  "tool_id": "9065010103200",
+  "description": "Drill, 13/32 5xD, RT 100 R, Carbide, FIREX, Coolant through",
+  "library": "autodesk/Guhring_Solid_Hole_Making",
+  "product_link": "https://www.guhring.com/ProductsServices/SizeDetails?EDP=9065010103200",
+  "source_file": "autodesk/fusion/Guhring_Solid_Hole_Making.json",
+  "v3_tool_nr": 110
+ }
+}

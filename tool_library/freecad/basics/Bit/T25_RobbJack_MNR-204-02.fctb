@@ -1,0 +1,35 @@
+{
+ "version": 2,
+ "name": "RobbJack MNR-204-02",
+ "shape": "endmill.fcstd",
+ "parameter": {
+  "Diameter": "2.0000 mm",
+  "Length": "37.9999 mm",
+  "CuttingEdgeHeight": "5.0000 mm",
+  "ShankDiameter": "2.0000 mm"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "2 mm square",
+  "reach_mm": 5.0,
+  "fusion_type": "flat end mill",
+  "iso13399": {
+   "DC": 2.0,
+   "DMM": 2.0,
+   "APMX": 5.0,
+   "OAL": 37.9999,
+   "LB": 5.0,
+   "NOF": 2.0,
+   "RE": 0.0,
+   "unit": "mm"
+  },
+  "vendor": "RobbJack",
+  "tool_id": "MNR-204-02",
+  "description": "MNR-204-02 · 2mm Dia 2-Flute Metric End Mill 5mm LOC, 2mm Shank, 38mm OAL",
+  "library": "robbjack-fusion360.tools",
+  "product_link": "https://robbjack.com/tools/MNR-204-02",
+  "source_file": "robbjack/robbjack-fusion360.tools",
+  "v3_tool_nr": 25
+ }
+}

@@ -1,0 +1,461 @@
+{
+ "version": 1,
+ "tools": [
+  {
+   "nr": 1,
+   "path": "T01_RobbJack_C8-201-02.fctb"
+  },
+  {
+   "nr": 2,
+   "path": "T02_RobbJack_C8-203-02.fctb"
+  },
+  {
+   "nr": 3,
+   "path": "T03_RobbJack_S1-201-03.fctb"
+  },
+  {
+   "nr": 4,
+   "path": "T04_RobbJack_S1-301-04.fctb"
+  },
+  {
+   "nr": 5,
+   "path": "T05_RobbJack_C1-301-04.fctb"
+  },
+  {
+   "nr": 6,
+   "path": "T06_SwiftCARB_AC01252BU003S100.fctb"
+  },
+  {
+   "nr": 7,
+   "path": "T07_RobbJack_S1-301-06.fctb"
+  },
+  {
+   "nr": 8,
+   "path": "T08_RobbJack_AL3-304-06.fctb"
+  },
+  {
+   "nr": 9,
+   "path": "T09_HARVEY_TOOL_968816-C4.fctb"
+  },
+  {
+   "nr": 10,
+   "path": "T10_RobbJack_AL3-304-08.fctb"
+  },
+  {
+   "nr": 11,
+   "path": "T11_HELICAL_SOLUTIONS_81471.fctb"
+  },
+  {
+   "nr": 12,
+   "path": "T12_HARVEY_TOOL_957720.fctb"
+  },
+  {
+   "nr": 13,
+   "path": "T13_HARVEY_TOOL_852024.fctb"
+  },
+  {
+   "nr": 14,
+   "path": "T14_RobbJack_TL-303-12.fctb"
+  },
+  {
+   "nr": 15,
+   "path": "T15_HARVEY_TOOL_968832-C8.fctb"
+  },
+  {
+   "nr": 16,
+   "path": "T16_RobbJack_TL-303-16.fctb"
+  },
+  {
+   "nr": 17,
+   "path": "T17_RobbJack_SB-201-02.fctb"
+  },
+  {
+   "nr": 18,
+   "path": "T18_RobbJack_SB-201-04.fctb"
+  },
+  {
+   "nr": 19,
+   "path": "T19_RobbJack_B-203-04.fctb"
+  },
+  {
+   "nr": 20,
+   "path": "T20_RobbJack_DM-202-06.fctb"
+  },
+  {
+   "nr": 21,
+   "path": "T21_HARVEY_TOOL_50916-C3.fctb"
+  },
+  {
+   "nr": 22,
+   "path": "T22_Haas_Automation_03-0590.fctb"
+  },
+  {
+   "nr": 23,
+   "path": "T23_HARVEY_TOOL_962424.fctb"
+  },
+  {
+   "nr": 24,
+   "path": "T24_HARVEY_TOOL_962432.fctb"
+  },
+  {
+   "nr": 25,
+   "path": "T25_RobbJack_MNR-204-02.fctb"
+  },
+  {
+   "nr": 26,
+   "path": "T26_RobbJack_MST-341-03.fctb"
+  },
+  {
+   "nr": 27,
+   "path": "T27_RobbJack_MC1-301-03.fctb"
+  },
+  {
+   "nr": 28,
+   "path": "T28_RobbJack_MST-341-04.fctb"
+  },
+  {
+   "nr": 29,
+   "path": "T29_HELICAL_SOLUTIONS_59691.fctb"
+  },
+  {
+   "nr": 30,
+   "path": "T30_RobbJack_MFM-303-06.fctb"
+  },
+  {
+   "nr": 31,
+   "path": "T31_HELICAL_SOLUTIONS_59697.fctb"
+  },
+  {
+   "nr": 32,
+   "path": "T32_HELICAL_SOLUTIONS_59702.fctb"
+  },
+  {
+   "nr": 33,
+   "path": "T33_HELICAL_SOLUTIONS_59708.fctb"
+  },
+  {
+   "nr": 34,
+   "path": "T34_RobbJack_MSB-201-02.fctb"
+  },
+  {
+   "nr": 35,
+   "path": "T35_RobbJack_MSB-201-03.fctb"
+  },
+  {
+   "nr": 36,
+   "path": "T36_RobbJack_MFM-201-06-BN.fctb"
+  },
+  {
+   "nr": 37,
+   "path": "T37_HARVEY_TOOL_804816.fctb"
+  },
+  {
+   "nr": 38,
+   "path": "T38_HARVEY_TOOL_804824.fctb"
+  },
+  {
+   "nr": 39,
+   "path": "T39_HARVEY_TOOL_804832.fctb"
+  },
+  {
+   "nr": 40,
+   "path": "T40_Sandvik_Coromant_R217.33-016560AC06P_1620.fctb"
+  },
+  {
+   "nr": 41,
+   "path": "T41_Sandvik_Coromant_R217.33-021400AC08P_1620.fctb"
+  },
+  {
+   "nr": 42,
+   "path": "T42_Sandvik_Coromant_R217.33-032320AC12P_1620.fctb"
+  },
+  {
+   "nr": 43,
+   "path": "T43_Sandvik_Coromant_R217.33-035240AC14P_1620.fctb"
+  },
+  {
+   "nr": 44,
+   "path": "T44_Sandvik_Coromant_R217.33-048200AC19P_1620.fctb"
+  },
+  {
+   "nr": 45,
+   "path": "T45_Sandvik_Coromant_R217.13-012035AC05P_1620.fctb"
+  },
+  {
+   "nr": 46,
+   "path": "T46_Sandvik_Coromant_R217.13-023050AC06P_1620.fctb"
+  },
+  {
+   "nr": 47,
+   "path": "T47_Sandvik_Coromant_R217.13-040080AC15P_1620.fctb"
+  },
+  {
+   "nr": 48,
+   "path": "T48_Sandvik_Coromant_R217.13-048100AC12P_1620.fctb"
+  },
+  {
+   "nr": 49,
+   "path": "T49_GENERIC_tap_1-72_UNF_ANSI_B94.9_nominal_.fctb"
+  },
+  {
+   "nr": 50,
+   "path": "T50_Sandvik_Coromant_T300-XM100AE-2-56_C110.fctb"
+  },
+  {
+   "nr": 51,
+   "path": "T51_Sandvik_Coromant_T300-XM100AE-4-40_C110.fctb"
+  },
+  {
+   "nr": 52,
+   "path": "T52_Sandvik_Coromant_T300-NM100AE-6-32_D150.fctb"
+  },
+  {
+   "nr": 53,
+   "path": "T53_Sandvik_Coromant_T300-NM100AE-8-32_D150.fctb"
+  },
+  {
+   "nr": 54,
+   "path": "T54_Sandvik_Coromant_T300-SD100DH-10-24_D150.fctb"
+  },
+  {
+   "nr": 55,
+   "path": "T55_Sandvik_Coromant_T300-NM100AF-10-32_D150.fctb"
+  },
+  {
+   "nr": 56,
+   "path": "T56_Sandvik_Coromant_T300-NM100AE-1_4_D150.fctb"
+  },
+  {
+   "nr": 57,
+   "path": "T57_Sandvik_Coromant_T300-NM100AF-1_4_D150.fctb"
+  },
+  {
+   "nr": 58,
+   "path": "T58_Sandvik_Coromant_T300-NM100AE-5_16_D150.fctb"
+  },
+  {
+   "nr": 59,
+   "path": "T59_Sandvik_Coromant_T300-NM100AF-5_16_D150.fctb"
+  },
+  {
+   "nr": 60,
+   "path": "T60_Sandvik_Coromant_T300-NM100AE-3_8_D150.fctb"
+  },
+  {
+   "nr": 61,
+   "path": "T61_Sandvik_Coromant_T300-NM100AF-3_8_D150.fctb"
+  },
+  {
+   "nr": 62,
+   "path": "T62_Sandvik_Coromant_T300-NM100AE-1_2_D150.fctb"
+  },
+  {
+   "nr": 63,
+   "path": "T63_Sandvik_Coromant_T300-NM100AF-1_2_D150.fctb"
+  },
+  {
+   "nr": 64,
+   "path": "T64_Sandvik_Coromant_E000M1.6.fctb"
+  },
+  {
+   "nr": 65,
+   "path": "T65_Sandvik_Coromant_T300-XM100DA-M2_C110.fctb"
+  },
+  {
+   "nr": 66,
+   "path": "T66_Sandvik_Coromant_T300-XM100DA-M2.5_C110.fctb"
+  },
+  {
+   "nr": 67,
+   "path": "T67_Sandvik_Coromant_T300-NM100DA-M3_B150.fctb"
+  },
+  {
+   "nr": 68,
+   "path": "T68_Sandvik_Coromant_T300-NM100AA-M4_D150.fctb"
+  },
+  {
+   "nr": 69,
+   "path": "T69_Sandvik_Coromant_T300-NM100AA-M5_D150.fctb"
+  },
+  {
+   "nr": 70,
+   "path": "T70_Sandvik_Coromant_T300-NM100AA-M6_D150.fctb"
+  },
+  {
+   "nr": 71,
+   "path": "T71_Sandvik_Coromant_T300-NM100AA-M8_D150.fctb"
+  },
+  {
+   "nr": 72,
+   "path": "T72_Sandvik_Coromant_T300-NM100AA-M10_D150.fctb"
+  },
+  {
+   "nr": 73,
+   "path": "T73_Sandvik_Coromant_T300-NM101AA-M12_D150.fctb"
+  },
+  {
+   "nr": 74,
+   "path": "T74_HARVEY_TOOL_BVT0492-C3.fctb"
+  },
+  {
+   "nr": 75,
+   "path": "T75_HARVEY_TOOL_BAF0595-C8.fctb"
+  },
+  {
+   "nr": 76,
+   "path": "T76_Garr_Tool_00398.fctb"
+  },
+  {
+   "nr": 77,
+   "path": "T77_HARVEY_TOOL_BAF0700-C8.fctb"
+  },
+  {
+   "nr": 78,
+   "path": "T78_Garr_Tool_00430.fctb"
+  },
+  {
+   "nr": 79,
+   "path": "T79_Garr_Tool_00446.fctb"
+  },
+  {
+   "nr": 80,
+   "path": "T80_Garr_Tool_00456.fctb"
+  },
+  {
+   "nr": 81,
+   "path": "T81_HARVEY_TOOL_BAF0960-C8.fctb"
+  },
+  {
+   "nr": 82,
+   "path": "T82_Garr_Tool_00464.fctb"
+  },
+  {
+   "nr": 83,
+   "path": "T83_Garr_Tool_00480.fctb"
+  },
+  {
+   "nr": 84,
+   "path": "T84_Haas_Automation_03-1261.fctb"
+  },
+  {
+   "nr": 85,
+   "path": "T85_Garr_Tool_19225.fctb"
+  },
+  {
+   "nr": 86,
+   "path": "T86_ISCAR_6154601.fctb"
+  },
+  {
+   "nr": 87,
+   "path": "T87_Guhring_9007680034000.fctb"
+  },
+  {
+   "nr": 88,
+   "path": "T88_Haas_Automation_03-2371.fctb"
+  },
+  {
+   "nr": 89,
+   "path": "T89_HARVEY_TOOL_BVT1495-C3.fctb"
+  },
+  {
+   "nr": 90,
+   "path": "T90_Garr_Tool_59380.fctb"
+  },
+  {
+   "nr": 91,
+   "path": "T91_ISCAR_6154826.fctb"
+  },
+  {
+   "nr": 92,
+   "path": "T92_Garr_Tool_59410.fctb"
+  },
+  {
+   "nr": 93,
+   "path": "T93_Haas_Automation_03-0296.fctb"
+  },
+  {
+   "nr": 94,
+   "path": "T94_Guhring_9002050048300.fctb"
+  },
+  {
+   "nr": 95,
+   "path": "T95_Guhring_9006090050000.fctb"
+  },
+  {
+   "nr": 96,
+   "path": "T96_HARVEY_TOOL_BAF2009-C8.fctb"
+  },
+  {
+   "nr": 97,
+   "path": "T97_HARVEY_TOOL_BAF2129-C8.fctb"
+  },
+  {
+   "nr": 98,
+   "path": "T98_Guhring_9014520055000.fctb"
+  },
+  {
+   "nr": 99,
+   "path": "T99_HARVEY_TOOL_BAF2570-C8.fctb"
+  },
+  {
+   "nr": 100,
+   "path": "T100_Guhring_9012430066000.fctb"
+  },
+  {
+   "nr": 101,
+   "path": "T101_Guhring_9006090068000.fctb"
+  },
+  {
+   "nr": 102,
+   "path": "T102_KYOCERA_SGS_Precision_Tools_51514.fctb"
+  },
+  {
+   "nr": 103,
+   "path": "T103_Haas_Automation_03-0377.fctb"
+  },
+  {
+   "nr": 104,
+   "path": "T104_Haas_Automation_03-0378.fctb"
+  },
+  {
+   "nr": 105,
+   "path": "T105_KYOCERA_SGS_Precision_Tools_51922.fctb"
+  },
+  {
+   "nr": 106,
+   "path": "T106_Guhring_9055150085000.fctb"
+  },
+  {
+   "nr": 107,
+   "path": "T107_KYOCERA_SGS_Precision_Tools_51521.fctb"
+  },
+  {
+   "nr": 108,
+   "path": "T108_Garr_Tool_56680.fctb"
+  },
+  {
+   "nr": 109,
+   "path": "T109_Guhring_9055110102000.fctb"
+  },
+  {
+   "nr": 110,
+   "path": "T110_Guhring_9065010103200.fctb"
+  },
+  {
+   "nr": 111,
+   "path": "T111_Garr_Tool_56755.fctb"
+  },
+  {
+   "nr": 112,
+   "path": "T112_Garr_Tool_56761.fctb"
+  },
+  {
+   "nr": 113,
+   "path": "T113_Garr_Tool_56775.fctb"
+  },
+  {
+   "nr": 114,
+   "path": "T114_Garr_Tool_26881.fctb"
+  }
+ ]
+}

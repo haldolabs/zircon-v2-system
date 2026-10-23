@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "HARVEY TOOL BAF0595-C8",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "1.5110 mm",
+  "Length": "50.0000 mm",
+  "TipAngle": "130.0000 °"
+ },
+ "attribute": {
+  "Flutes": 3,
+  "Material": "Carbide",
+  "v3_role": "tap drill 1-72 (#53, 0.0595 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 1.511,
+   "DMM": 3.0,
+   "APMX": 10.3522954357,
+   "OAL": 50.0,
+   "LB": 13.94181,
+   "NOF": 3.0,
+   "TA": 130.0,
+   "unit": "mm"
+  },
+  "vendor": "HARVEY TOOL",
+  "tool_id": "BAF0595-C8",
+  "description": "HARVEY - BAF0595-C8 - HP DRILL FOR ALUMINUM ALLOYS - 1.511 MM DIA X 10.000 MM FLUTE LENGTH , 3 FLUTES, TIB2 COATED",
+  "library": "autodesk/Harvey_Tool_Holemaking_and_Threading",
+  "product_link": "http://www.harveytool.com/products/tool-details-BAF0595-C8",
+  "source_file": "autodesk/fusion/Harvey_Tool_Holemaking_and_Threading.json",
+  "v3_tool_nr": 75
+ }
+}

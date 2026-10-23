@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "name": "GENERIC tap 1-72 UNF (ANSI B94.9 nominal)",
+ "shape": "thread-mill.fcstd",
+ "parameter": {
+  "Diameter": "1.8542 mm",
+  "Length": "42.8625 mm",
+  "ShankDiameter": "3.5814 mm",
+  "NeckDiameter": "1.4834 mm",
+  "NeckLength": "32.3375 mm",
+  "Crest": "0.1058 mm",
+  "cuttingAngle": "60.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "HSS",
+  "tap_pitch_mm": 0.3528,
+  "v3_role": "tap 1-72",
+  "estimated": true,
+  "note": "No 1-72 tap in the vendor collection; dimensions are ANSI B94.9 nominal (estimated). TAP represented with FreeCAD's thread-mill shape; FreeCAD 1.0 has no tap shape.",
+  "fusion_type": "tap right hand",
+  "iso13399": {
+   "DC": 0.073,
+   "DMM": 0.141,
+   "APMX": 0.375,
+   "OAL": 1.6875,
+   "NOF": 2,
+   "unit": "in"
+  },
+  "vendor": "GENERIC",
+  "tool_id": "1-72",
+  "v3_tool_nr": 49
+ }
+}

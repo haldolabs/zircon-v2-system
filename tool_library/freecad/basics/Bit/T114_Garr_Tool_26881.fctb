@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 26881",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "13.4925 mm",
+  "Length": "155.5750 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "clearance 1/2 screw, normal fit (17/32, 0.5313 in) = clearance M12 screw, medium fit (13.5 mm)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 13.4925,
+   "DMM": 13.4925,
+   "APMX": 104.775,
+   "OAL": 155.575,
+   "LB": 155.575,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "tool_id": "26881",
+  "description": "17/32 in 7xD 2FL H/P C/F DR *AlTiN-based*",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=26881",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json",
+  "v3_tool_nr": 114
+ }
+}

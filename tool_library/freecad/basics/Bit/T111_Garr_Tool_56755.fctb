@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "name": "Garr Tool 56755",
+ "shape": "drill.fcstd",
+ "parameter": {
+  "Diameter": "10.7163 mm",
+  "Length": "114.3000 mm",
+  "TipAngle": "118.0000 °"
+ },
+ "attribute": {
+  "Flutes": 2,
+  "Material": "Carbide",
+  "v3_role": "tap drill 1/2-13 (27/64, 0.4219 in)",
+  "fusion_type": "drill",
+  "iso13399": {
+   "DC": 10.7163,
+   "DMM": 10.7163,
+   "APMX": 73.025,
+   "OAL": 114.3,
+   "LB": 114.3,
+   "NOF": 2.0,
+   "TA": null,
+   "unit": "mm"
+  },
+  "vendor": "Garr Tool",
+  "tool_id": "56755",
+  "description": "27/64 in 5xD DR 2FL 2-7/8 in F/L 118 PT",
+  "library": "autodesk/Garr_Tool_Garr_Tool",
+  "product_link": "https://www.garrtool.com/product-details/?EDP=56755",
+  "source_file": "autodesk/fusion/Garr_Tool_Garr_Tool.json",
+  "v3_tool_nr": 111
+ }
+}
